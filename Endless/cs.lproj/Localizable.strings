@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Zakázáno: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ nesmí být prázdné";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Klepnutím upravíte, držením přesunete)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Použít výchozí)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Přidat záložku";
+
+/* No comment provided by engineer. */
+"All rules" = "Všechna pravidla";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Povolit serverům přístup k funkcím WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Povolit serverům trvale uložit cookies a databáze lokálního úložiště";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Povolit serverům s HTTPS načtení zdrojů ze serverů bez HTTPS (užitečné pro RSS čtečky a jiné agregátory)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Povolit zdroje se smíšeným obsahem";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Povolit trvalé cookies";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Povolit tomuto serveru přístup k funkcím WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Povolit tomuto serveru trvale uložit cookies a databáze lokálního úložiště";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Povolit tomuto serveru s HTTPS načtení zdrojů ze serverů bez HTTPS (užitečné pro RSS čtečky a jiné agregátory)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Povolit této stránce, aby zavřela svůj panel?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Povolit WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Při stahování obrázku %@ nastala chyba";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Vyžadována autentizace";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Blokovat externí žádosti LAN";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Blokované servery 3. stran";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Záložky";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Zrušit";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Zavřít panel";
+
+/* No comment provided by engineer. */
+"Confirm" = "Potvrdit";
+
+/* No comment provided by engineer. */
+"Content policy" = "Pravidla pro obsah";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookies a lokální úložiště";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Kopírovat URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Vytvořit nový panel";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Vlastní nastavení";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Vlastní user agent, pokud je prázdné, bude použit výchozí";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Výchozí nastavení";
+
+/* No comment provided by engineer. */
+"Disable" = "Zakázat";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Zakázáno: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Hotovo";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Klepněte dvakrát pro zavření vyskakovacího okna.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Upravit záložku";
+
+/* No comment provided by engineer. */
+"Enable" = "Povolit";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Zadejte detaily záložky:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Zadejte server/doménu, pro kterou chcete definovat nastavení";
+
+/* No comment provided by engineer. */
+"Error" = "Chyba";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Vyplnit pomocí 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Vybrat pole URL";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Globální nastavení";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Konfigurace mostu";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Selhalo připojení k Toru";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser ztratil připojení k anonymní síti Tor a nemůže se znovu připojit. Toto se může stát, pokud je aplikace na pozadí nebo zařízení přejde do spánkového režimu.\n\nProsím zavřete aplikaci a zkuste to znovu. Pokud potřebujete přidat tuto stránku do záložek nebo uložit informace z již načtené stránky, stiskněte „OK“ a aplikace zůstane otevřená bez připojení k síti.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Opustit aplikaci";
+
+/* No comment provided by engineer. */
+"Go Back" = "Jít zpátky";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Jít dopředu";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Přizpůsobit chování při klepnutí na link, aby se předešlo otevření externí aplikace";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Přizpůsobit chování při klepnutí na link na tomto serveru, aby se předešlo otevření externí aplikace";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Nastavení pro server";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Server/doména";
+
+/* No comment provided by engineer. */
+"Hosts" = "Servery";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Pravidla pro HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignorovat na tomto serveru";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignorovat chyby TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Neplatný e-mail";
+
+/* No comment provided by engineer. */
+"Log In" = "Přihlásit se";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Aplikace Mail není nastavena";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Spravovat záložky";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimální verze TLS požadovaná po serverech pro připojení přes HTTPS";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimální verze TLS požadovaná po tomto serveru pro připojení přes HTTPS";
+
+/* No comment provided by engineer. */
+"No" = "Ne";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Žádné XHR/WebSocket/Video spojení";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Otevřít";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Otevřít (normální režim surfování)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Otevřít v novém panelu";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Otevřít v panelu na pozadí";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Otevřít v Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Ostatní";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Stránka je v záložkách";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Název stránky (ponechte prázdné pro použití URL)";
+
+/* Password */
+"Password" = "Heslo";
+
+/* No comment provided by engineer. */
+"Privacy" = "Soukromí";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Táhnutím znovu načtete";
+
+/* No comment provided by engineer. */
+"Refresh" = "Načíst znovu";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Zdrojům načtených z externích serverů bude znemožněno načtení prvků na stránce a připojení k serverům na lokální síti (192.168.0.0/16, 172.16.0.0/12 atd.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Zdrojům načtených z tohoto serveru bude znemožněno načtení prvků na stránce a připojení k serverům na lokální síti (192.168.0.0/16, 172.16.0.0/12 atd.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Omezení pro zdroje načtené z webových stran";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Omezení pro zdroje načtené z webových stran tohoto serveru";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Pravidla používaná na této stránce";
+
+/* No comment provided by engineer. */
+"Save Image" = "Uložit obrázek";
+
+/* No comment provided by engineer. */
+"Security" = "Zabezpečení";
+
+/* No comment provided by engineer. */
+"Settings" = "Nastavení";
+
+/* No comment provided by engineer. */
+"Share URL" = "Sdílet URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Zobrazit záložky";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Přísné (žádný JavaScript, video atd.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Přejít na panel %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Tato nastavení platí pro tento server a všechny jemu podřazené (např. „example.com“ platí pro example.com i www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Tato nastavení budou použita jako výchozí pro všechny servery, pokud nejsou jednotlivě přepsány";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Toto zařízení není správně nastaveno pro odesílání e-mailů. Nejprve prosím přidejte e-mailový účet v aplikaci Nastavení.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Pouze TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 nebo 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Chyba při ověřování certifikátu TLS (certifikát podepsán samotným serverem?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS handshake selhal";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Chyba protokolu TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Verze TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Ochrana pro univerzální odkazy";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Neznámá organizace";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Blokátor URL";
+
+/* No comment provided by engineer. */
+"User Agent" = "User Agent";
+
+/* No comment provided by engineer. */
+"User disabled" = "Zakázáno uživatelem";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Použito výchozí nastavení";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Chyba";
+
+/* No comment provided by engineer. */
+"Yes" = "Ano";
+

@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "Nauðsynlegt til að vista valda mynd í myndasafnið þitt.";
+NSCameraUsageDescription = "Nauðsynlegt til að lesa vistföng brúa út úr birtum QR-kóðum.";

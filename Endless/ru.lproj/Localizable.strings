@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Отключено: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ не может быть пустым";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Нажмите для изменения, удерживайте для переупорядочения)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Использовать по умолчанию)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Добавить закладку";
+
+/* No comment provided by engineer. */
+"All rules" = "Все правила";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Разрешить хостам доступ к WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Разрешить хостам постоянно хранить файлы cookie и локальные базы данных";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Разрешить хостам HTTPS загружать ресурсы страниц с не-HTTPS хостов (полезно для RSS и других агрегаторов)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Разрешить ресурсы смешанного режима";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Разрешить постоянные cookie";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Разрешить этому хосту доступ к WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Разрешить этому хосту постоянно хранить файлы cookie и локальные базы данных";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Разрешить этому хосту HTTPS загрузить ресурсы страницы с не-HTTPS хостов (полезно для RSS и других агрегаторов)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Разрешить этой странице закрыть вкладку?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Разрешить WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Произошла ошибка загрузки изображения %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Необходима аутентификация";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Блокировать запросы внешней локальной сети";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Заблокированные сторонние хосты";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Закладки";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Отмена";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Закрыть вкладку";
+
+/* No comment provided by engineer. */
+"Confirm" = "Подтвердить";
+
+/* No comment provided by engineer. */
+"Content policy" = "Политика контента";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookie и локальное хранилище";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Копировать URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Создать новую вкладку";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Пользовательские настройки";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Свой пользовательский агент или пустое значение для использования агента по умолчанию";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Настройки по умолчанию";
+
+/* No comment provided by engineer. */
+"Disable" = "Отключить";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Отключено: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Готово";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Дважды нажмите, чтобы закрыть всплывающее окно.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Редактировать закладку";
+
+/* No comment provided by engineer. */
+"Enable" = "Включить";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Введите сведения о URL закладки:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Введите хост/домен для определения параметров";
+
+/* No comment provided by engineer. */
+"Error" = "Ошибка";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Заполнить с 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Фокусировать на поле URL";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Глобальные настройки";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Настройка мостов";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Ошибка подключения к Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser потерял связь с сетью Tor и не может повторно подключиться. Это могло произойти, если вы свернули Onion Browser или если устройство перешло в режим сна.\n\nВыйдите из приложения и повторите попытку. Если вам нужно сделать закладку или сохранить информацию текущей страницы, вы можете нажать \"ОК\", чтобы остаться в приложении без доступа к сети.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Выйти из приложения";
+
+/* No comment provided by engineer. */
+"Go Back" = "Назад";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Вперед";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Включить нестандартную обработку нажатий на ссылки, чтобы избежать случайного открытия сторонних приложений";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Включить нестандартную обработку нажатий на ссылки со страниц этого хоста, чтобы избежать случайного открытия сторонних приложений";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Настройки хоста";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Хост/домен";
+
+/* No comment provided by engineer. */
+"Hosts" = "Хосты";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Правила HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Игнорировать для этого хоста";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Игнорировать ошибки TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Неверный адрес электронной почты";
+
+/* No comment provided by engineer. */
+"Log In" = "Вход";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Почта не настроена";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Управление закладками";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Минимальная версия TLS, требуемая хостами для согласования соединений HTTPS";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Минимальная версия TLS, требуемая этим хостом для согласования соединений HTTPS";
+
+/* No comment provided by engineer. */
+"No" = "Нет";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Нет XHR/WebSocket/Видео соединений";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Открыть";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Открыть (обычный режим просмотра)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Открыть в новой вкладке";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Открыть в фоновой вкладке";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Открыть в Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Другое";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Страница добавлена в закладки";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Название страницы (оставьте пустым для использования URL)";
+
+/* Password */
+"Password" = "Пароль";
+
+/* No comment provided by engineer. */
+"Privacy" = "Приватность";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Потяните для обновления страницы";
+
+/* No comment provided by engineer. */
+"Refresh" = "Обновить";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ресурсы, загруженные с внешних хостов, будут блокировать загрузку элементов страницы или запросы к хостам LAN (192.168.0.0/16, 172.16.0.0/12 и т.д.).";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ресурсы, загруженные с этого хоста, будут блокировать загрузку элементов страницы или запросы к хостам LAN (192.168.0.0/16, 172.16.0.0/12 и т.д.).";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Ограничения на ресурсы, загруженные с веб-страниц";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Ограничения на ресурсы, загруженные с веб-страниц на этом хосте";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Правила, используемые на текущей странице";
+
+/* No comment provided by engineer. */
+"Save Image" = "Сохранить изображение";
+
+/* No comment provided by engineer. */
+"Security" = "Безопасность";
+
+/* No comment provided by engineer. */
+"Settings" = "Настройки";
+
+/* No comment provided by engineer. */
+"Share URL" = "Поделиться URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Показать закладки";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Строго (нет JavaScript, видео, и т.д.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Переключиться на вкладку %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = " Эти настройки будут применяться к этому хосту и всем хостам под ним (например,  \"example.com\" будет применяться к example.com и www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Эти настройки будут использоваться как значения по умолчанию для всех хостов, если не переопределены";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Это устройство не настроено для отправки электронной почты. Пожалуйста, настройте параметры Mail в Настройках.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Только TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, или 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Ошибка проверки цепочки сертификатов TLS (самоподписанный сертификат?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Рукопожатие TLS не удалось";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Ошибка протокола TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Версия TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Универсальная защита ссылок";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Неизвестная организация";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Блокировщик URL";
+
+/* No comment provided by engineer. */
+"User Agent" = "Пользовательский агент";
+
+/* No comment provided by engineer. */
+"User disabled" = "Пользователь отключен";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Пользователь по умолчанию";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Ошибка";
+
+/* No comment provided by engineer. */
+"Yes" = "Да";
+

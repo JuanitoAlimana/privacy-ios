@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Desactivat: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ no pot estar buit";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Toqueu per a editar, manteniu per a ordenar)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Utilitzeu la forma predeterminada)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Afegiu un marcador";
+
+/* No comment provided by engineer. */
+"All rules" = "Totes les regles";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Permet als amfitrions d'accedir a les funcions WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Permet els amfitrions emmagatzemar permanentment galetes i bases de dades locals";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Permet als amfitrions HTTPS carregar els recursos de les pàgines des d'amfitrions no-HTTPS (útil per als lectors RSS i altres agregadors)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Permet recursos en mode mixt";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Permet galetes persistents";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Permet a aquest amfitrió d'accedir a les funcions WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Permet a aquest amfitrió emmagatzemar permanentment galetes i bases de dades locals";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Permet a aquest amfitrió HTTPS carregar els recursos de la pàgina des d'amfitrions no-HTTPS (útil per a lectors RSS i altres agregadors)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Voleu permetre que aquesta pàgina tanqui la pestanya?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Permet WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "S'ha produït un error quan es baixava la imatge %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Cal una autentificació";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Bloca les peticions de LAN externes";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Amfitrions de tercers blocats";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Marcadors";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Cancel·la";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Tanca la pestanya";
+
+/* No comment provided by engineer. */
+"Confirm" = "Confirma";
+
+/* No comment provided by engineer. */
+"Content policy" = "Política de contingut";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Galetes i emmagatzematge local";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Copia l'URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Crea una pestanya nova";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Configuració personalitzada";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Personalitzeu la cadena d'agent d'usuari, o deixeu-la en blanc per a usar la predeterminada";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Configuració predeterminada";
+
+/* No comment provided by engineer. */
+"Disable" = "Desactiva";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Desactivat: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Fet";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Feu doble toc per a tancar la finestra emergent.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Edita el marcador";
+
+/* No comment provided by engineer. */
+"Enable" = "Activa";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Introduïu els detalls de l'URL del marcador:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Introduïu l'amfitrió/domini per al qual definiu la configuració";
+
+/* No comment provided by engineer. */
+"Error" = "Error";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Ompli amb el 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Focalitza el camp de l'URL";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Configuració global";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Configuració del pont";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Ha fallat la connexió Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "L'Onion Browser ha perdut la connexió amb la xarxa anònima Tor i no pot tornar a connectar-se. Això podria ocórrer si heu enviat l'Onion Browser al segon pla o si el dispositiu s'ha blocat mentre el navegador era actiu.\n\nTanqueu l'aplicació i torneu a provar-ho. Si necessiteu fer marcador la pàgina actual o desar-hi informació, podeu tocar «D'acord» per a romandre a l'aplicació sense connexió a la xarxa.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Tanca l'aplicació";
+
+/* No comment provided by engineer. */
+"Go Back" = "Torna enrere";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Vés endavant";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Gestiona el clic en enllaços d'una manera no habitual per a evitar poder obrir aplicacions externes";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Gestiona el clic en enllaços de pàgines d'aquest amfitrió d'una manera no habitual per a evitar poder obrir aplicacions externes";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Configuració de l'amfitrió";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Amfitrió/domini";
+
+/* No comment provided by engineer. */
+"Hosts" = "Amfitrions";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Regles de l'HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignora per a aquest servidor";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignora els errors TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Adreça electrònica no vàlida";
+
+/* No comment provided by engineer. */
+"Log In" = "Inicieu la sessió";
+
+/* InAppSettingsKit */
+"Mail not configured" = "No s'ha configurat cap adreça de correu";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Gestiona els marcadors";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "No hi ha cap connexió XHR/WebSocket/Video";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "D'acord";
+
+/* No comment provided by engineer. */
+"Open" = "Obre";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Obre (mode de navegació normal)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Obre en una pestanya nova";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Obre la pestanya en segon pla";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Obre al Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Altres";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "S'ha creat el marcador";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Nom de la pàgina (deixeu-ho en blanc per a usar l'URL)";
+
+/* Password */
+"Password" = "Contrasenya";
+
+/* No comment provided by engineer. */
+"Privacy" = "Privadesa";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Llisqueu per a actualitzar";
+
+/* No comment provided by engineer. */
+"Refresh" = "Actualitza";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Els recursos carregats des d'amfitrions externs es blocaran, i no podran carregar elements de la pàgina ni fer peticions a amfitrions LAN (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Els recursos carregats des d'aquest amfitrió es blocaran, i no podran carregar elements de la pàgina ni fer peticions a amfitrions LAN (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Restriccions per als recursos carregats des de pàgines web";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Restriccions per als recursos carregats des de pàgines web a aquest amfitrió";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Regles a utilitzar en la pàgina actual";
+
+/* No comment provided by engineer. */
+"Save Image" = "Desa la imatge";
+
+/* No comment provided by engineer. */
+"Security" = "Seguretat";
+
+/* No comment provided by engineer. */
+"Settings" = "Configuració";
+
+/* No comment provided by engineer. */
+"Share URL" = "Comparteix l'URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Mostra els marcadors";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Estricte (sense JavaScript, vídeos, etc.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Canvia a la pestanya %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Aquesta configuració s'aplicarà a aquest amfitrió i a tots els que hi són per sota (p.e., «example.com» s'aplicarà a example.com i www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Aquesta configuració s'usarà com a predeterminada per a tots els amfitrions si no se sobreescriu";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Aquest dispositiu no està configurat per a enviar correus. Configureu el Mail a la Configuració del sistema.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Només TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 o 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Error de verificació de la cadena de certificats TLS (és un certificat autosignat?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Ha fallat la negociació TLS";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Error de protocol TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Versió del TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Protecció d'enllaços universal";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Organització desconeguda";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Blocador d'URL";
+
+/* No comment provided by engineer. */
+"User Agent" = "Agent d'Usuari";
+
+/* No comment provided by engineer. */
+"User disabled" = "Usuari desactivat";
+
+/* No comment provided by engineer. */
+"Using defaults" = "S'utilitzen els predeterminats";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Error";
+
+/* No comment provided by engineer. */
+"Yes" = "Sí";
+

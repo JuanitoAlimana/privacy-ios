@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "Toto je potřeba pro uložení vybraných obrázků do fotek.";
+NSCameraUsageDescription = "Toto je potřeba pro přečtení adres mostů ze zobrazených QR kódů.";

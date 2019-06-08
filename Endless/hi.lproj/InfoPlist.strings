@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "अपनी तस्वीरों के लिए चयनित छवि को संग्रहीत करने की आवश्यकता है।";
+NSCameraUsageDescription = "प्रदर्शित QR कोड से ब्रिज एड्रेस पढ़ने की जरूरत है।";

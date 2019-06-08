@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@（已禁用：%2$@）";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@不能为空";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "（点击编辑，长按重新排序）";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "（使用默认）";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "添加书签";
+
+/* No comment provided by engineer. */
+"All rules" = "所有规则";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "允许主机访问 WebRTC 功能";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "允许主机永久存储 cookie 和本地存储数据库";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "允许 HTTPS 主机从非 HTTPS 主机加载页面资源（此规则对 RSS 阅读器和其他聚合器有用）";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "允许混合模式资源";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "允许持久性 cookie";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "允许该主机使用 WebRTC 功能";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "允许该主机永久存储 cookie 和本地存储数据库";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "允许该 HTTPS 主机从非 HTTPS 主机加载页面资源（此规则对 RSS 阅读器和其他聚合器有用）";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "是否允许该页面关闭其标签页？";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "允许 WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "下载图片出错 %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "需验证";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "阻拦外部的 LAN 请求";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "已阻拦第三方主机";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "书签";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Close Tab" = "关闭标签页";
+
+/* No comment provided by engineer. */
+"Confirm" = "确认";
+
+/* No comment provided by engineer. */
+"Content policy" = "内容政策";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "cookie 和本地存储";
+
+/* No comment provided by engineer. */
+"Copy URL" = "复制 URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "新建标签页";
+
+/* No comment provided by engineer. */
+"Custom settings" = "自定义设置";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "自定义用户代理字符串，空白时使用默认";
+
+/* No comment provided by engineer. */
+"Default Settings" = "默认设置";
+
+/* No comment provided by engineer. */
+"Disable" = "禁用";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "已禁用：%@";
+
+/* No comment provided by engineer. */
+"Done" = "完成";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "双击忽略弹出窗口。";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "编辑书签";
+
+/* No comment provided by engineer. */
+"Enable" = "启用";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "输入要加入书签的URL的详细信息：";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "输入设置所作用于的主机/域";
+
+/* No comment provided by engineer. */
+"Error" = "错误";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "使用 1Password 填充";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "指向 URL 字段";
+
+/* No comment provided by engineer. */
+"Global Settings" = "全局设置";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "网桥配置";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor 连接失败";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion 浏览器与 Tor 匿名网络的连接断掉，并且无法重连，可能是因为 Onion 浏览器进入后台运行状态，或者浏览器虽然处于活动状态，但设备休眠。\n\n请退出并重启该应用，再次连接。如需保存当前页面为书签或其内容，请按“确定”停留在当前应用中，这样无需网络也可进行以上操作。";
+
+/* No comment provided by engineer. */
+"Quit App" = "退出应用";
+
+/* No comment provided by engineer. */
+"Go Back" = "返回";
+
+/* No comment provided by engineer. */
+"Go Forward" = "继续";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "通过非标准方式处理链接点击，避免打开外部应用的潜在可能";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "通过非标准方式处理该主机页面上的链接点击，避免打开外部应用的潜在可能";
+
+/* No comment provided by engineer. */
+"Host Settings" = "主机设置";
+
+/* No comment provided by engineer. */
+"Host/domain" = "主机/域";
+
+/* No comment provided by engineer. */
+"Hosts" = "主机";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS Everywhere 规则";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "忽略来自该主机的错误";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "忽略 TLS 错误";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "邮箱地址无效";
+
+/* No comment provided by engineer. */
+"Log In" = "登录";
+
+/* InAppSettingsKit */
+"Mail not configured" = "邮箱未配置";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "管理书签";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "主机建立 HTTPS 连接所需的 TLS 最低版本";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "该主机建立 HTTPS 连接所需的 TLS 最低版本";
+
+/* No comment provided by engineer. */
+"No" = "否";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "无 XHR/WebSocket/视频连接";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "确定";
+
+/* No comment provided by engineer. */
+"Open" = "打开";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "打开（正常浏览模式）";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "在新标签页中打开";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "在背景标签页中打开";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "在 Safari 中打开";
+
+/* No comment provided by engineer. */
+"Other" = "其它";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "页面已存为书签";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "页面名称（空白时使用 URL）";
+
+/* Password */
+"Password" = "密码";
+
+/* No comment provided by engineer. */
+"Privacy" = "隐私";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "拉动以刷新页面";
+
+/* No comment provided by engineer. */
+"Refresh" = "刷新";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "从外部主机加载的资源将无法加载页面元素或向 LAN 主机（192.168.0.0/16、172.16.0.0/12 等）发出请求";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "从该外部主机加载的资源将无法加载页面元素或向 LAN 主机（192.168.0.0/16、172.16.0.0/12 等）发出请求";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "对从网页加载资源的限制";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "对该主机上从网页加载资源限制";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "当前页面使用的规则";
+
+/* No comment provided by engineer. */
+"Save Image" = "保存图片";
+
+/* No comment provided by engineer. */
+"Security" = "安全";
+
+/* No comment provided by engineer. */
+"Settings" = "设置";
+
+/* No comment provided by engineer. */
+"Share URL" = "分享 URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "显示书签";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "严格（无 Javascript、视频等）";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "切换至 %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "这些设置将应用于此主机，及其下的所有主机 （例如，example.com 将应用于 example.com 和 www.example.com）";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "如果没有进行修改，默认在所有主机上使用这些设置。";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "该设备不可发送电子邮件。请修改“设置”下的“邮件”设置。";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "仅限 TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2、1.1 或 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS 证书链验证错误（自签发证书？）";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS 握手失败";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS 协议错误";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS 版本";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "通用链接保护";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "未知组织";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL 拦截程序";
+
+/* No comment provided by engineer. */
+"User Agent" = "用户代理";
+
+/* No comment provided by engineer. */
+"User disabled" = "用户已禁用";
+
+/* No comment provided by engineer. */
+"Using defaults" = "使用默认";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "错误";
+
+/* No comment provided by engineer. */
+"Yes" = "是";
+

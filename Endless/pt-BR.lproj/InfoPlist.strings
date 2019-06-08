@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "Necessário para armazenar a imagem selecionada em suas fotos.";
+NSCameraUsageDescription = "Necessário para ler os endereços das pontes dos códigos QR exibidos.";

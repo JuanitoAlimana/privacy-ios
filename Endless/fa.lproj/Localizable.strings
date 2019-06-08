@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@(غیر‌فعال: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@نمی‌تواند خالی باشد";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(برای ویرایش ضربه بزنید، برای جابه‌جایی نگه دارید)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(استفاده به صورت پیش‌فرض)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "اضافه کردن به بوکمارک";
+
+/* No comment provided by engineer. */
+"All rules" = " تمام قوانین";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "اجازه‌ی دسترسی میزبان‌ها به توابع WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "به هاست‌ها اجازه‌ی ذخیره دائمی کوکی‌ها و حافظه داخلی  بانک‌های اطلاعاتی  را بدهید";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "به هاست‌های HTTPS اجازه‌ی بارگذاری منابع از هاست‌های غیر HTTPS را بدهید. (این به RSS خوان‌ها و بقیه خبر‌خوان‌ها کمک خواهد کرد)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "اجازه استفاده از منابع به صورت ترکیبی";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "اجازه به کوکی‌های دائمی";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "اجازه‌ی دسترسی این میزبان به توابع WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "به این هاست اجازه‌ی ذخیره دائمی کوکی‌ها و حافظه داخلی بانک‌های اطلاعاتی را بدهید";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "به این هاست HTTPS اجازه‌ی بارگذاری منابع از هاست‌های غیر HTTPS را بدهید. (این برای RSSخوان‌ها و بقیه خبر‌خوان‌ها مفید خواهد بود)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "اجازه می‌دهید که این صفحه این تب را ببندد؟";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "اجازه WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "خطا در دانلود عکس %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = " شناسایی هویت نیاز است";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "مسدود کردن درخواست‌های شبکه‌های (LAN) خارجی";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "هاست‌های شخص‌ ثالث مسدود شدند";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "بوکمارک‌ها";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "لغو";
+
+/* No comment provided by engineer. */
+"Close Tab" = "بستن تب";
+
+/* No comment provided by engineer. */
+"Confirm" = "تایید";
+
+/* No comment provided by engineer. */
+"Content policy" = "سیاست محتوا";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "کوکی‌ها و حافظه داخلی";
+
+/* No comment provided by engineer. */
+"Copy URL" = "کپی کردنِ آدرس صفحه";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "باز کردنِ پنجره جدید";
+
+/* No comment provided by engineer. */
+"Custom settings" = "تنظیمات سفارشی";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "User-Agent String سفارشی، و یا برای پیش فرض خالی بگذارید";
+
+/* No comment provided by engineer. */
+"Default Settings" = "تنظیمات پیش‌فرض";
+
+/* No comment provided by engineer. */
+"Disable" = "غیرفعال کردن";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "غیرفعال شد: %@";
+
+/* No comment provided by engineer. */
+"Done" = "انجام شد";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "برای رد کردن پنجره پاپ آپ دو بار به صفحه ضربه بزنید";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "ویرایش بوکمارک";
+
+/* No comment provided by engineer. */
+"Enable" = "فعال کن";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "اطلاعات آدرس صفحه مورد نظر به بوکمارک را وارد کنید:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "هاست / دامنه را وارد کنید برای تعریف تنظیماتٍ ";
+
+/* No comment provided by engineer. */
+"Error" = "خطا";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "با 1Password پر کنید";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "توجه به فیلد آدرس صفحه";
+
+/* No comment provided by engineer. */
+"Global Settings" = "تنظیمات عمومی";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "پیکربندی پل";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "اختلال در اتصال به تور";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "ارتباط بین مرورگر Onion و شبکه ناشناس تور قطع شد و امکان ارتباط مجدد میسر نیست. این اتفاق زمانی رخ می‌دهد که احتمالا مرورگر در پس ضمینه باشد و یا گوشی در حالت Sleep ولی مرورگرOnion  فعال باشد\n\nلطفا از برنامه خارج شوید و دوباره امتحان کنید. در صورتی که می‌خواهید این صفحه را در بوکمارک خود و یا اطلاعات آن را ذخیره کنید، دکمه  OK را فشاردهید تا برنامه بدون شبکه فعال هم در دسترس باشد";
+
+/* No comment provided by engineer. */
+"Quit App" = "خارج شدن از اپلیکیشن";
+
+/* No comment provided by engineer. */
+"Go Back" = "بازگشت";
+
+/* No comment provided by engineer. */
+"Go Forward" = "بعدی";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "تغییر لمس کردن لینک‌ها به روشی غیراستاندارد برای جلوگیری از باز کردن احتمالی برنامه‌های خارجی";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "تغییر لمس کردن لینک‌ها در صفحات این میزبان به روشی غیراستاندارد برای جلوگیری از باز کردن احتمالی برنامه‌های خارجی";
+
+/* No comment provided by engineer. */
+"Host Settings" = "تنظیمات هاست";
+
+/* No comment provided by engineer. */
+"Host/domain" = "هاست/دامنه";
+
+/* No comment provided by engineer. */
+"Hosts" = "هاست‌ها";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS  در همه سایت‌ها";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "قوانین HTTPS در همه‌ سایت‌ها";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "چشم‌پوشی از این میزبان";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "چشم‌پوشی از خطاهای TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "ایمیل معتبر نیست";
+
+/* No comment provided by engineer. */
+"Log In" = "ورود";
+
+/* InAppSettingsKit */
+"Mail not configured" = "ایمیل پیکربندی نشده‌ است";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "مدیریت بوکمارک‌ها";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "حداقل نسخه‌ی مورد نیاز از TLS برای گفتگوی ارتباط HTTPS میزبان‌ها";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "حداقل نسخه‌ی مورد نیاز از TLS برای گفتگوی ارتباط HTTPS این میزبان";
+
+/* No comment provided by engineer. */
+"No" = "خیر";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "نبود XHR/WebSocket/ ارتباط ویدیویی ";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "تایید";
+
+/* No comment provided by engineer. */
+"Open" = "بازکردن";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "باز کردن (حالت معمولی مرورگر)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "بازکردن در یک صفحه جدید";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "بازکردن در صفحه زمینه";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "بازکردن در مرورگر Safari";
+
+/* No comment provided by engineer. */
+"Other" = "سایر";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "صفحه بوکمارک شد";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "اسم صفحه (خالی بگذارید تا از نشانی اینترنتی استفاده شود)";
+
+/* Password */
+"Password" = "رمز‌عبور";
+
+/* No comment provided by engineer. */
+"Privacy" = "حریم خصوصی";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "برای بازآوری صفحه بکشید";
+
+/* No comment provided by engineer. */
+"Refresh" = "باز‌آوری";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "منابع بارگذاری شده از هاست‌های خارجی، از بارگذاری المان‌های صفحه یا درخواست‌ از هاست‌های شبکه‌ی داخلی (LAN) مسدود خواهند شد ( 192.168.0.0/16، 172.16.0.0/12، غیره)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "منابع بارگذاری شده از این هاست، از بارگذاری المان‌های صفحه یا درخواست از هاست‌های شبکه‌ی داخلی (LAN) مسدود خواهند شد ( 192.168.0.0/16، 172.16.0.0/12، غیره )";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "محدودیت‌ها بر منابع بارگذاری شده از صفحه‌های وب";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "محدودیت‌ها بر منابع بارگذاری شده از صفحات وب در این هاست";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "قوانین در حال استفاده در این صفحه";
+
+/* No comment provided by engineer. */
+"Save Image" = "ذخیره عکس";
+
+/* No comment provided by engineer. */
+"Security" = "امنیت";
+
+/* No comment provided by engineer. */
+"Settings" = "تنظیمات";
+
+/* No comment provided by engineer. */
+"Share URL" = "اشتراک آدرس صفحه";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "نمایش بوکمارک‌ها";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "سخت گیری ( صفحات حاوی جاوا اسکریپت، ویدیو، و غیره بارگذاری نمی‌شوند)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "تعویض به صفحه %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "این تنظیمات براین هاست وهاست‌های زیر‌مجموعه‌‌اش اجرا خواهد شد ( برای مثال، «example.com» برای example.com و www.example.com به کاربرده خواهد شد. ";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "این تنظیمات به‌صورت پیش‌فرض برای‌ تمام هاست‌ها استفاده خواهد شد مگر‌اینکه لغو شوند";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "این دستگاه برای فرستادن ایمیل پیکر‌بندی نشده‌ است. لطفا در تنظیمات اپلیکیشن، تنظیمات ایمیل را پیکر‌بندی کنید.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "فقط TLS ۱/۲";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS ۱‍/۲، یا ۱/۱، ۱/۰";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "خطا در تائید زنجیره گواهی TLS (گواهی خود امضا شده؟)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "ارتباط TLS ناموفق";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "خطای پروتکول TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "نسخه TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "حفاظت لینک عمومی";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "تشکیلات نامعلوم";
+
+/* No comment provided by engineer. */
+"URL" = "نشانی اینترنتی";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "مسدود کننده نشانی اینترنتی";
+
+/* No comment provided by engineer. */
+"User Agent" = "مامور کاربر";
+
+/* No comment provided by engineer. */
+"User disabled" = "کاربر غیرفعال شد";
+
+/* No comment provided by engineer. */
+"Using defaults" = "استفاده به‌صورت پیش‌فرض";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "خطا";
+
+/* No comment provided by engineer. */
+"Yes" = "بله";
+

@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (מושבת: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ אינו יכול להיות ריק";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(הקש כדי לערוך, החזק כדי לסדר מחדש)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(השתמש בברירת מחדל)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "הוסף סימנייה";
+
+/* No comment provided by engineer. */
+"All rules" = "כל הכללים";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "התר למארחים להשיג גישה אל תיפקודי WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "התר למארחים לאחסן לצמיתות עוגיות ומסדי־נתונים של אחסון מקומי";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "התר אל מארחי HTTPS לטעון משאבי דף ממארחים אי־HTTPS (שימושי עבור קוראי RSS ואגרנים אחרים)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "התר משאבים של מצב מעורבב";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "התר עוגיות מתמידות";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "התר למארח זה להשיג גישה אל תיפקודי WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "התר למארח זה לאחסן לצמיתות עוגיות ומסדי־נתונים של אחסון מקומי";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "התר אל מארח HTTPS זה לטעון משאבי דף ממארחים אי־HTTPS (שימושי עבור קוראי RSS ואגרנים אחרים)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "להתיר לדף זה לסגור את לשוניתו?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "התר WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "שגיאה התרחשה בהורדת התמונה %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "דרוש אימות";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "חסום בקשות LAN חיצוניות";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "מארחי צד־שלישי חסומים";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "סימניות";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "בטל";
+
+/* No comment provided by engineer. */
+"Close Tab" = "סגור לשונית";
+
+/* No comment provided by engineer. */
+"Confirm" = "אשר";
+
+/* No comment provided by engineer. */
+"Content policy" = "מדיניות תוכן";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "עוגיות ואחסון מקומי";
+
+/* No comment provided by engineer. */
+"Copy URL" = "העתק כתובת אתר";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "צור לשונית חדשה";
+
+/* No comment provided by engineer. */
+"Custom settings" = "הגדרות מותאמות אישית";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "מחרוזת מותאמת אישית של סוכן־משתמש, או השאר ריק כדי להשתמש בברירת המחדל";
+
+/* No comment provided by engineer. */
+"Default Settings" = "הגדרות ברירת מחדל";
+
+/* No comment provided by engineer. */
+"Disable" = "השבת";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "מושבת: %@";
+
+/* No comment provided by engineer. */
+"Done" = "סיים";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "הקש פעמיים כדי לשחרר חלון קופץ.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "ערוך סימנייה";
+
+/* No comment provided by engineer. */
+"Enable" = "אפשר";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "הכנס את פרטי כתובת האתר אל סימנייה:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "הכנס את המארח/התחום כדי לקבוע הגדרות עבור";
+
+/* No comment provided by engineer. */
+"Error" = "שגיאה";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "מלא עם 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "התמקד בשדה כתובת אתר";
+
+/* No comment provided by engineer. */
+"Global Settings" = "הגדרות עולמיות";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "תצורת גשר";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "כישלון של חיבור Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "דפדפן בצל איבד חיבור אל רשת האלמוניות של Tor והוא אינו מצליח להתחבר מחדש. זה עלול להתרחש אילו דפדפן בצל הלך אל הרקע או אילו המכשיר הלך לישון בעת שדפדפן בצל היה פעיל.\n\nאנא צא מהיישום ונסה שוב. אם אתה צריך לשמור סימנייה של הדף הנוכחי או לשמור מידע מהדף הנוכחי, אתה יכול ללחוץ על 'אישור' כדי להישאר ביישום ללא יכולת רשת.";
+
+/* No comment provided by engineer. */
+"Quit App" = "צא מהיישום";
+
+/* No comment provided by engineer. */
+"Go Back" = "חזור";
+
+/* No comment provided by engineer. */
+"Go Forward" = "התקדם";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "טפל בהקשה על קישורים בדרך אי־תקנית כדי למנוע פתיחה אפשרית של יישומים חיצוניים";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "טפל בהקשה על קישורים בעמודים ממארח זה בדרך אי־תקנית כדי למנוע פתיחה אפשרית של יישומים חיצוניים";
+
+/* No comment provided by engineer. */
+"Host Settings" = "הגדרות מארח";
+
+/* No comment provided by engineer. */
+"Host/domain" = "מארח/תחום";
+
+/* No comment provided by engineer. */
+"Hosts" = "מארחים";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "כלליי HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "התעלם עבור מארח זה";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "התעלם משגיאות TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "כתובת דוא\"ל בלתי תקפה";
+
+/* No comment provided by engineer. */
+"Log In" = "התחבר";
+
+/* InAppSettingsKit */
+"Mail not configured" = "דוא\"ל לא מתוצר";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "נהל סימניות";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "גרסת מיזער של TLS הדרושה ע\"י מארחים כדי לשאת ולתת חיבורי HTTPS";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "גרסת מיזער של TLS הדרושה ע\"י מארח זה כדי לשאת ולתת חיבורי HTTPS";
+
+/* No comment provided by engineer. */
+"No" = "לא";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "אין חיבורים של XHR/WebSocket/וידיאו";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "אישור";
+
+/* No comment provided by engineer. */
+"Open" = "פתח";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "פתח (מצב גלישה רגילה)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "פתח בלשונית חדשה";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "פתח בלשונית רקע";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "פתח ב־Safari";
+
+/* No comment provided by engineer. */
+"Other" = "אחר";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "התווספה סימניית דף";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "שם דף (השאר ריק כדי להשתמש בכתובת אתר)";
+
+/* Password */
+"Password" = "סיסמה";
+
+/* No comment provided by engineer. */
+"Privacy" = "פרטיות";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "משוך כדי לרענן דף";
+
+/* No comment provided by engineer. */
+"Refresh" = "רענן";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "משאבים הנטענים ממארחים חיצוניים ייחסמו אל טעינת יסודות דף או יצירת בקשות אל מארחי LAN (כגון 192.168.0.0/16, 172.16.0.0/12, וכדומה.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "משאבים הנטענים ממארח זה ייחסמו אל טעינת יסודות דף או יצירת בקשות אל מארחי LAN (כגון 192.168.0.0/16, 172.16.0.0/12, וכדומה.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "הגבלות על משאבים הטעונים מדפי אתר";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "הגבלות על משאבים הטעונים מדפי אתר במארח זה";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "כללים בשימוש בדף הנוכחי";
+
+/* No comment provided by engineer. */
+"Save Image" = "שמור תמונה";
+
+/* No comment provided by engineer. */
+"Security" = "אבטחה";
+
+/* No comment provided by engineer. */
+"Settings" = "הגדרות";
+
+/* No comment provided by engineer. */
+"Share URL" = "שתף כתובת אתר";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "הראה סימניות";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "מחמיר (ללא JavaScript, וידיאו וכד')";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "החלף אל לשונית %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "הגדרות אלו יחולו על מארח זה ועל כל המארחים תחתיו (למשל, \"example.com\" יחול על example.com ועל www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "הגדרות אלו ישמשו כברירות מחדל עבור כל המארחים אלא אם כן יידרסו";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "מכשיר זה אינו מתוצר עבור שליחת דוא\"ל. אנא תצר את הגדרות הדוא\"ל ביישום הגדרות.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "TLS 1.2 בלבד";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 או 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "שגיאת וידוא שרשרת אישור TLS (אישור חתום־עצמאית?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "לחיצת ידיים TLS נכשלה";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "שגיאת פרוטוקול TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "גרסת TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "הגנה כלל־עולמית מפני קישורים";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "ארגון בלתי ידוע";
+
+/* No comment provided by engineer. */
+"URL" = "כתובת אתר";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "חוסם כתובות אתר";
+
+/* No comment provided by engineer. */
+"User Agent" = "סוכן משתמש";
+
+/* No comment provided by engineer. */
+"User disabled" = "מושבת ע\"י משתמש";
+
+/* No comment provided by engineer. */
+"Using defaults" = "שימוש בברירות מחדל";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "שגיאה";
+
+/* No comment provided by engineer. */
+"Yes" = "כן";
+

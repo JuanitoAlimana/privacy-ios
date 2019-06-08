@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "Do chead ag teastáil chun an pictiúir roghnaithe a shábháil.";
+NSCameraUsageDescription = "Do chead ag teastáil chun seoltaí droichid a léamh ó chóid QR.";

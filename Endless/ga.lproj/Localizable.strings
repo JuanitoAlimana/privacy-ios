@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Díchumasaithe: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "Ní féidir %@ a fhágáil folamh";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Tapáil le cur in eagar, coinnigh síos le cur in ord)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Úsáid an Réamhshocrú)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Cruthaigh Leabharmharc";
+
+/* No comment provided by engineer. */
+"All rules" = "Gach riail";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Tabhair cead d'óstríomhairí feidhmeanna WebRTC a úsáid";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Tabhair cead d'óstaigh fianáin agus bunachair sonraí áitiúla a stóráil go buan";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Tabhair cead d'óstaigh HTTPS acmhainní leathanaigh a lódáil ó óstaigh nach mbaineann úsáid as HTTPS (úsáideach le haghaidh léitheoirí RSS agus comhbhailitheoirí eile)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Ceadaigh acmhainní módmheasctha";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Ceadaigh fianáin sheasmhacha";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Tabhair cead don óstríomhaire seo feidhmeanna WebRTC a úsáid";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Tabhair cead don óstach seo fianáin agus bunachair sonraí áitiúla a stóráil go buan";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Tabhair cead don óstach HTTPS seo acmhainní leathanaigh a lódáil ó óstaigh nach mbaineann úsáid as HTTPS (úsáideach le haghaidh léitheoirí RSS agus comhbhailitheoirí eile)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "An bhfuil cead ag an leathanach seo a chluaisín féin a dhúnadh?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Ceadaigh WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Tharla earráid agus íomhá %@ á híoslódáil";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Fíordheimhniú de dhíth";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Cuir cosc ar iarratais LAN seachtracha";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Óstaigh 3ú Páirtí Faoi Chosc";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Leabharmharcanna";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Cealaigh";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Dún an Cluaisín";
+
+/* No comment provided by engineer. */
+"Confirm" = "Deimhnigh";
+
+/* No comment provided by engineer. */
+"Content policy" = "Polasaí inneachair";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Fianáin agus Stóras Áitiúil";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Cóipeáil an URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Cruthaigh Cluaisín Nua";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Socruithe saincheaptha";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "User-Agent saincheaptha, nó folamh chun an réamhshocrú a úsáid";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Réamhshocruithe";
+
+/* No comment provided by engineer. */
+"Disable" = "Díchumasaigh";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Díchumasaithe: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Déanta";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Tapáil faoi dhó chun an phreabfhuinneog a dhúnadh.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Cuir an Leabharmharc in Eagar";
+
+/* No comment provided by engineer. */
+"Enable" = "Cumasaigh";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Tabhair mionsonraí an URL le leabharmharc a dhéanamh:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Cuir isteach óstach/fearann lena chumrú";
+
+/* No comment provided by engineer. */
+"Error" = "Earráid";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Líon isteach le 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Cuir an fócas sa bharra suímh";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Socruithe Chomhchoitianta";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Cumraíocht Droichead";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Theip ar cheangal le Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Chaill Brabhsálaí Onion an ceangal le líonra Tor agus ní féidir leis an ceangal a athbhunú. Tarlaíonn sé seo má théann Brabhsálaí Onion sa chúlra, nó má théann an gléas ina chodladh agus an brabhsálaí oscailte.\n\nScoir den aip agus bain triail eile as. Más gá duit leabharmharc a chruthú, nó sonraí ón leathanach reatha a shábháil, tapáil 'OK' le fanacht anseo gan cheangal líonra.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Scoir den Aip";
+
+/* No comment provided by engineer. */
+"Go Back" = "Ar Ais";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Ar Aghaidh";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Ná hoscail nascanna ar an ngnáthbhealach sa chaoi nach n-osclófar feidhmchláir sheachtracha trí thimpiste.";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Ná hoscail nascanna ar leathanaigh ón óstríomhaire seo ar an ngnáthbhealach sa chaoi nach n-osclófar feidhmchláir sheachtracha trí thimpiste.";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Socruithe an Óstaigh";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Óstach/fearann";
+
+/* No comment provided by engineer. */
+"Hosts" = "Óstaigh";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Rialacha HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ná déan don óstríomhaire seo";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Déan neamhaird d'earráidí TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Seoladh ríomhphoist neamhbhailí";
+
+/* No comment provided by engineer. */
+"Log In" = "Logáil isteach";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Níl ríomhphost ar fáil";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Bainistigh Leabharmharcanna";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Leagan is ísle de TLS de dhíth chun ceangal HTTPS a shocrú";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Leagan is ísle de TLS de dhíth chun ceangal HTTPS a shocrú leis an óstach seo";
+
+/* No comment provided by engineer. */
+"No" = "Níl";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Gan cheangal XHR/WebSocket/Físe";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Oscail";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Oscail (gnáthbhrabhsáil)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Oscail i gCluaisín Nua";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Oscail i gCluaisín Cúlra";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Oscail in Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Eile";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Cruthaíodh leabharmharc";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Ainm an Leathanaigh (folamh chun an URL a úsáid)";
+
+/* Password */
+"Password" = "Focal Faire";
+
+/* No comment provided by engineer. */
+"Privacy" = "Príobháideachas";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Tarraing chun an leathanach a athlódáil";
+
+/* No comment provided by engineer. */
+"Refresh" = "Athnuaigh";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ní bheidh acmhainní a lódáladh ó óstach seachtrach in ann eilimintí leathanaigh a lódáil, nó iarratais ar óstaigh áitiúla a dhéanamh (192.168.0.0/16, 172.16.0.0/12, srl.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ní bheidh acmhainní a lódáladh ón óstach seo in ann eilimintí leathanaigh a lódáil, nó iarratais ar óstaigh áitiúla a dhéanamh (192.168.0.0/16, 172.16.0.0/12, srl.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Srianta ar acmhainní a lódáiltear ó leathanaigh Ghréasáin";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Srianta ar acmhainní a lódáiltear ó leathanaigh Ghréasáin ar an óstach seo";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Rialacha i bhfeidhm ar an leathanach reatha";
+
+/* No comment provided by engineer. */
+"Save Image" = "Sábháil an Íomhá";
+
+/* No comment provided by engineer. */
+"Security" = "Slándáil";
+
+/* No comment provided by engineer. */
+"Settings" = "Socruithe";
+
+/* No comment provided by engineer. */
+"Share URL" = "Comhroinn an URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Taispeáin Leabharmharcanna";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Dian (gan JavaScript, físeáin, srl.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Athraigh go dtí %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Cuirfear na socruithe seo i bhfeidhm ar an óstach seo, agus ar gach óstach faoi (m.sh., cuirfear \"example.com\" i bhfeidhm ar example.com agus ar www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Úsáidfear iad seo mar réamhshocruithe ar gach óstach mura bhfuil siad athraithe i gcásanna ar leith";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Níor socraíodh an gléas seo chun ríomhphost a sheoladh. Caithfidh tú é seo a dhéanamh san aip Settings.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "TLS 1.2 Amháin";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, nó 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Earráid agus an slabhra teastas TLS á dheimhniú (teastas féinsínithe?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Theip ar an gcroitheadh láimhe TLS";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Earráid leis an bprótacal TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Leagan TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Cosaint Uilíoch Nascanna";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Eagraíocht Anaithnid";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Coscaire URL";
+
+/* No comment provided by engineer. */
+"User Agent" = "Teaghrán User-Agent";
+
+/* No comment provided by engineer. */
+"User disabled" = "Díchumasaithe ag an úsáideoir";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Réamhshocruithe in úsáid";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Earráid";
+
+/* No comment provided by engineer. */
+"Yes" = "Tá";
+

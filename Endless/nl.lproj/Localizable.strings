@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Uitgeschakeld: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ kan niet leeg zijn";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Tik om aan te passen, houd vast om de volgorde te veranderen)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Gebruik standaard)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Bladwijzer toevoegen";
+
+/* No comment provided by engineer. */
+"All rules" = "Alle regels";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Hosts toegang verlenen tot WebRTC-functies";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Toestaan dat hosts cookies en lokale opslagdatabases permanent opslaan";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS-hosts toestaan paginabronnen van niet-HTTPS-hosts te laden (handig voor RSS-lezers en andere aggregators)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Bronnen in verschillende modi toestaan";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Permanente cookies toestaan";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Deze host toegang verlenen tot WebRTC-functies";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Toestaan dat deze host cookies en lokale opslagdatabases permanent opslaat";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Toestaan dat deze HTTPS-host paginabronnen laadt van niet-HTTPS-hosts (handig voor RSS-lezers en andere aggregators)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Deze pagina toestaan dit tabblad te sluiten?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "WebRTC toestaan";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Er is een fout opgetreden tijdens het downloaden van de afbeelding %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Verificatie vereist";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Blokkeer externe LAN verzoeken";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Geblokkeerde hosts van derden";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Bladwijzers";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Annuleren";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Tabblad sluiten";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bevestigen";
+
+/* No comment provided by engineer. */
+"Content policy" = "Inhoudsbeleid";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookies en lokale opslag";
+
+/* No comment provided by engineer. */
+"Copy URL" = "URL kopiëren";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Nieuw tabblad openen";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Aangepaste instellingen";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Aangepaste gebruikersagenttekenreeks. Laat dit leeg om de standaard te gebruiken";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Standaardinstellingen";
+
+/* No comment provided by engineer. */
+"Disable" = "Uitschakelen";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Uitgeschakeld: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Klaar";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Dubbeltik om het pop-upvenster te sluiten.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Bladwijzer bewerken";
+
+/* No comment provided by engineer. */
+"Enable" = "Inschakelen";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Voer de details in van de URL om toe te voegen aan de bladwijzers.";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Voer de host/domein in om instellingen te bepalen voor";
+
+/* No comment provided by engineer. */
+"Error" = "Fout";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Invullen met 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Focus URL-veld";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Globale instellingen";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Configuratie bridge";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor-verbindingsfout";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser heeft de verbinding met het Tor-anonimiteitsnetwerk verloren en kan niet opnieuw verbinden. Dit kan voorkomen als Onion Browser naar de achtergrond is verplaatst of als het apparaat in slaapstand is gegaan, terwijl Onion Browser actief was.\n\nSluit de app af en probeer het opnieuw. Als u de huidige pagina als bladwijzer wilt opslaan of informatie van de huidige pagina wilt opslaan, moet u misschien op ‘Oké’ tikken om in de app zonder netwerkfunctionaliteit te blijven.";
+
+/* No comment provided by engineer. */
+"Quit App" = "App afsluiten";
+
+/* No comment provided by engineer. */
+"Go Back" = "Ga terug";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Ga vooruit";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Verwerk het aanklikken van koppelingen op een niet-standaard-manier, om te voorkomen dat er mogelijk externe apps worden geopend";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Verwerk het aanklikken van koppelingen op pagina’s van deze host op een niet-standaard-manier, om te voorkomen dat er mogelijk externe apps worden geopend";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Hostinstellingen";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Host/domein";
+
+/* No comment provided by engineer. */
+"Hosts" = "Hosts";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS overal";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS regels overal";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Negeren voor deze host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "TLS-fouten negeren";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Ongeldig e-mailadres";
+
+/* No comment provided by engineer. */
+"Log In" = "Inloggen";
+
+/* InAppSettingsKit */
+"Mail not configured" = "E-mail niet geconfigureerd";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Bladwijzers beheren";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimale versie van TLS vereist door hosts om te onderhandelen over HTTPS-verbindingen";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimale versie van TLS vereist door deze host om te onderhandelen over HTTPS-verbindingen";
+
+/* No comment provided by engineer. */
+"No" = "Nee";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Geen XHR-/WebSocket-/video-verbindingen";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "Oké";
+
+/* No comment provided by engineer. */
+"Open" = "Openen";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Open (normale browsermodus)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Openen in een nieuw tabblad";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Openen in achtergrondtabblad";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Open in Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Ander";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Pagina toegevoegd aan bladwijzers";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Paginanaam (laat leeg om de URL te gebruiken)";
+
+/* Password */
+"Password" = "Wachtwoord";
+
+/* No comment provided by engineer. */
+"Privacy" = "Privacy";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Trek om de pagina te vernieuwen";
+
+/* No comment provided by engineer. */
+"Refresh" = "Ververs";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Bronnen geladen van externe hosts worden geblokkeerd om pagina-elementen te laden of aanvragen naar LAN-hosts te verzenden (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Bronnen die van deze host worden geladen, worden geblokkeerd om pagina-elementen te laden of aanvragen naar LAN-hosts te verzenden (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Beperkingen op bronnen die van webpagina’s zijn geladen";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Beperkingen op bronnen die zijn geladen van webpagina’s bij deze host";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Regels in gebruik op huidige pagina";
+
+/* No comment provided by engineer. */
+"Save Image" = "Afbeelding opslaan";
+
+/* No comment provided by engineer. */
+"Security" = "Beveiliging";
+
+/* No comment provided by engineer. */
+"Settings" = "Instellingen";
+
+/* No comment provided by engineer. */
+"Share URL" = "URL delen";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Bladwijzers tonen";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Strikt (geen JavaScript, video, enz.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Wissel naar tabblad %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Deze instellingen zijn van toepassing op deze host en alle hosts eronder (bijvoorbeeld ‘example.com’ is van toepassing op example.com en www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Deze instellingen worden gebruikt als standaardwaarden voor alle hosts, tenzij ze worden onderdrukt";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Dit apparaat is niet geconfigureerd voor het verzenden van e-mails. Configureer de e-mailinstellingen in de Instellingen-app.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Alleen TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 of 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Validatiefout in TLS-certificaatsketen (zelfondertekend certificaat?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS-handshake mislukt";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protocol fout";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS-versie";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Universele koppelingsbescherming";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Onbekende organisatie";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL-blokkering";
+
+/* No comment provided by engineer. */
+"User Agent" = "Gebruikersagent";
+
+/* No comment provided by engineer. */
+"User disabled" = "Gebruiker uitgeschakeld";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Standaardinstellingen gebruiken";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Fout";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+

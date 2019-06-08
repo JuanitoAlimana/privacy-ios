@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@(Оневозможено: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@не може да биде празно";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Допри за да уредиш, задржи за да го промениш редоследот)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Користи Стандардно)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Додади обележувач";
+
+/* No comment provided by engineer. */
+"All rules" = "Сите правила";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Дозволи им на хостовите пристап до WebRTC функции";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Дозволи им на хостовите трајно да ги складираат колачињата и локалниот склад на бази на податоци";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Дозволи им на HTTPS хостовите да ги вчитуваат ресурсите од не-HTTPS хостовите (корисно за RSS читачи и други агрегатори)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Дозволи ресурски од мешан-режим";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Дозволи упорни колачиња";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Дозволи му на овој хост пристап до WebRTC функции";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Дозволи му на овој хост трајно да ги складира колачињата и локалниот склад на бази на податоци";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Дозволи му на овој HTTPS хост да ги вчита ресурсите на страната од не-HTTPS хост (корисно за RSS читачи или други агрегатори)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Дозволи и на оваа страна да го затвори својот таб?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Дозволи WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Се случи грешка при преземањето на сликата %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Потребна е автентичност";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Блокирај надворешни LAN барања";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Блокирани хостови од 3-ти страни";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Обележувачи";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Исклучи";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Затвори таб";
+
+/* No comment provided by engineer. */
+"Confirm" = "Потврди";
+
+/* No comment provided by engineer. */
+"Content policy" = "Политика на користење";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Колачиња и Локален склад";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Копирај URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Создади нов таб";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Прилагодени поставки";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Прилагодена линија на кориснички профил, или празно за користење на стандардниот";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Стандардни поставки";
+
+/* No comment provided by engineer. */
+"Disable" = "Оневозможи";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Оневозможено:%@";
+
+/* No comment provided by engineer. */
+"Done" = "Завршено";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Двојно-допрете за да го отпуштите скокачкиот прозорец";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Уреди обележувач";
+
+/* No comment provided by engineer. */
+"Enable" = "Овозможено";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Внесете ги деталите за URL за да обележите: ";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Внесете хост/домеин за да ги дефинирате поставките за";
+
+/* No comment provided by engineer. */
+"Error" = "Грешка";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Пополни со 1Лозинка";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Фокус на URL полето ";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Глобални поставки";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Прилагодување на мост";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Неуспешно Tor поврзување";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion прелистувачот го изгуби поврзувањето со Tor анонимната мрежа и е оневозможен повторно да се поврзе. Ова може да се случи кога Onion прелистувачот ќе отиде во позадина или ако уредот отиде на режимот „спиење“ додека Onion пребарувачот е активен.\n\nВе молиме исклучете ја апликацијата и пробајте повторно. Ако треба да ја обележите моменталната страна или да зачувате информација од моменталната страна, можете да притиснете 'ОК', за да останете во апликацијата без да бидете мрежно поврзани.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Затвори ја апликацијата";
+
+/* No comment provided by engineer. */
+"Go Back" = "Назад";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Напред";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Справи се со допирањето на линкови на не-стандарден начин за да избегнеш можни отварања на надворешни апликации.";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Справи се со допирањето на линкови на веб страни од овој хост на не-стандарден начин за да избегнеш можни отварања на надворешни апликации.";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Поставки за хост";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Хост/домеин";
+
+/* No comment provided by engineer. */
+"Hosts" = "Хостови";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS насекаде";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Правила за HTTPS насекаде";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Игнорирај за овој хост";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Игнорирај TLS грешки";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Невалидна адреса на е-пошта";
+
+/* No comment provided by engineer. */
+"Log In" = "Најави се";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Е-поштата не е конфигурирана";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Управување со обележувачи";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Минимална верзија на TLS потребна за хостовите да преговараат  HTTPS поврзувања";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Минимална верзија на TLS потребна за овој хост да преговара HTTPS поврзувањата";
+
+/* No comment provided by engineer. */
+"No" = "Не";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Нема XHR/WebSocket/Video конекции";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "ОК";
+
+/* No comment provided by engineer. */
+"Open" = "Отвори";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Отвори (режим на нормално прелистување)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Отвори во нов таб";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Отвори во позадински таб";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Отвори со Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Друго";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Страната е обележана";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Име на страната (оставете празно ако користите URL)";
+
+/* Password */
+"Password" = "Лозинка";
+
+/* No comment provided by engineer. */
+"Privacy" = "Приватност";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Повлечи за да ја освежиш страната";
+
+/* No comment provided by engineer. */
+"Refresh" = "Освежи";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ресурсите вчитани од надворешен хост ќе бидат блокирани од елементите на страницата за вчитување или ќе побараат дозвола од LAN хостот (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ресурсите вчитани од овој хост ќе бидат блокирани од елементите на страницата за вчитување или ќе побараат дозвола од LAN хостот (192.168.0.0/16, 172.16.0.0/12, итн.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Ограничувања на ресурсите вчитани од веб страните";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Ограничувања на ресурсите вчитани од веб страните на овој хост";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Правилата кои се во употреба на моменталната страна";
+
+/* No comment provided by engineer. */
+"Save Image" = "Зачувај слика";
+
+/* No comment provided by engineer. */
+"Security" = "Безбедност";
+
+/* No comment provided by engineer. */
+"Settings" = "Поставки";
+
+/* No comment provided by engineer. */
+"Share URL" = "Сподели URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Покажи обележувачи";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Строго (нема JavaScript, видео, итн.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Замени таб %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Овие поставки ќе се применат на овој хост и на хостовите под него (т.е. „example.com“ ќе се примени на example.com и на www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Овие поставки ќе се користат како стандардни за сите хостови освен оние за оние што ќе бидат преземени";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Овој уред не е конфигуриран за испраќање на е-пошта. Ве молиме конфигурирајте ги Е-пошта поставките во Поставки за апликации.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Само TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, или 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Грешка при верификација на TLS ланецот на сертификати (само-потпишан сертификат?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS ракувањето не успеа";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Грешка на TLS протоколот";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS верзија";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Универзална Линк Заштита";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Непозната организација";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL блокатор";
+
+/* No comment provided by engineer. */
+"User Agent" = "Кориснички профил";
+
+/* No comment provided by engineer. */
+"User disabled" = "Корисникот е оневозможен";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Користи стандардно";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Грешка";
+
+/* No comment provided by engineer. */
+"Yes" = "Да";
+

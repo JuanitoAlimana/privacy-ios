@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (ఆపివేయబడింది: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ ఖాళీగా ఉండకూడదు";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(సవరించడానికి, తిరిగి క్రమంలో ఉంచడానికి నొక్కండి)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(డిఫాల్ట్ ఉపయోగించండి)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "బుక్మార్క్ జోడించు";
+
+/* No comment provided by engineer. */
+"All rules" = "అన్ని నియమాలు";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Allow hosts to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "శాశ్వతంగా కుకీలు మరియు స్థానిక నిల్వ డేటాబేస్లను నిల్వ చేయడానికి హోస్ట్లను అనుమతించండి";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS కాని హోస్ట్ల నుండి పేజీ వనరులను HTTPS హోస్ట్లను అనుమతించు (RSS రీడర్లు మరియు ఇతర అగ్రిగేటర్లకు ఉపయోగకరం)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "మిశ్రమ మోడ్ వనరులను అనుమతించండి";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "నిరంతర కుకీలను అనుమతించు";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Allow this host to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "శాశ్వతంగా కుకీలు మరియు స్థానిక నిల్వ డేటాబేస్లను నిల్వ చేయడానికి ఈ హోస్ట్ని అనుమతించండి";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "ఈ HTTPS హోస్ట్ను HTTPS యేతర హోస్ట్ల నుండి పేజీ వనరులను లోడ్ చేయడానికి అనుమతించండి (RSS రీడర్లు మరియు ఇతర అగ్రిగేటర్లకు ఉపయోగకరం)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "ఈ పేజీ దాని టాబ్ని మూసివేయడానికి  అనుమతించాలా?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Allow WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "%@ చిత్రాన్ని డౌన్లోడ్ చేస్తున్నప్పుడు లోపం సంభవించింది";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "ప్రామాణీకరణ అవసరం";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "బాహ్య LAN అభ్యర్థనలను బ్లాక్ చేయండి";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "బ్లాక్ చేసిన 3-పార్టీ హోస్ట్లు";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "బుక్ మార్క్స్";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "రద్దు";
+
+/* No comment provided by engineer. */
+"Close Tab" = "మూసెయ్";
+
+/* No comment provided by engineer. */
+"Confirm" = "నిర్ధారించండి";
+
+/* No comment provided by engineer. */
+"Content policy" = "కంటెంట్ విధానం";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "కుకీలు మరియు స్థానిక నిల్వ";
+
+/* No comment provided by engineer. */
+"Copy URL" = "URL ను కాపీ చేయండి";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "క్రొత్త టాబ్ సృష్టించండి";
+
+/* No comment provided by engineer. */
+"Custom settings" = "అనుకూల సెట్టింగులు";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "అనుకూల వినియోగదారు ఏజెంట్ స్ట్రింగ్ లేదా డిఫాల్ట్ ఉపయోగించడానికి ఖాళీ";
+
+/* No comment provided by engineer. */
+"Default Settings" = "డిఫాల్ట్ సెట్టింగులు";
+
+/* No comment provided by engineer. */
+"Disable" = "డిసేబుల్";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "నిలిపివేయబడింది: %@";
+
+/* No comment provided by engineer. */
+"Done" = "పూర్తి";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "పాప్-అప్ విండోను తీసివేయడానికి రెండుసార్లు నొక్కండి.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "బుక్మార్క్ను సవరించండి";
+
+/* No comment provided by engineer. */
+"Enable" = "ప్రారంభించు";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "బుక్ మార్క్ కు URL యొక్క వివరాలను నమోదు చేయండి:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "కోసం సెట్టింగులను నిర్వచించడానికి హోస్ట్ / డొమైన్ను నమోదు చేయండి";
+
+/* No comment provided by engineer. */
+"Error" = "లోపం";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "1 పాస్వర్డ్ను పూరించండి";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "URL ఫీల్డ్ ఫోకస్ చేయండి";
+
+/* No comment provided by engineer. */
+"Global Settings" = "గ్లోబల్ సెట్టింగ్లు";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "బ్రిడ్జ్ ఆకృతీకరణ";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor కనెక్షన్ వైఫల్యం";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion బ్రౌజర్ Tor అనొలిటీ నెట్వర్క్కు కనెక్షన్ కోల్పోయింది మరియు మళ్లీ కనెక్ట్ చేయలేకపోయింది. Onion బ్రౌజర్ నేపథ్యంలోకి వెళ్ళినప్పుడు లేదా Onion బ్రౌజర్ చురుకుగా ఉన్నప్పుడు పరికరాన్ని నిద్ర పోయినట్లయితే ఇది సంభవిస్తుంది.\n\nదయచేసి అనువర్తనాన్ని విడిచిపెట్టి, మళ్ళీ ప్రయత్నించండి. మీరు ప్రస్తుత పేజీని బుక్మార్క్ చెయ్యాలి లేదా ప్రస్తుత పేజీ నుండి సమాచారాన్ని భద్రపరుచుకోవాల్సి వస్తే, మీరు నెట్వర్క్ సామర్ధ్యం లేకుండా అనువర్తనం లో ఉండటానికి 'సరే'ని నొక్కవచ్చు.";
+
+/* No comment provided by engineer. */
+"Quit App" = "అనువర్తనాన్ని నిష్క్రమించండి";
+
+/* No comment provided by engineer. */
+"Go Back" = "వెనక్కి వెళ్ళు";
+
+/* No comment provided by engineer. */
+"Go Forward" = "ముందుకు వెళ్ళు";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Host Settings" = "హోస్ట్ సెట్టింగులు";
+
+/* No comment provided by engineer. */
+"Host/domain" = "హోస్ట్ / డొమైన్";
+
+/* No comment provided by engineer. */
+"Hosts" = "హోస్ట్స్";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "అన్నిచోట్లా HTTPS";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS ప్రతిచోటా నియమాలు";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignore for this host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignore TLS errors";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "చెల్లని ఇమెయిల్ చిరునామా";
+
+/* No comment provided by engineer. */
+"Log In" = "లాగ్ ఇన్";
+
+/* InAppSettingsKit */
+"Mail not configured" = "మెయిల్ కాన్ఫిగర్ చేయబడలేదు";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "బుక్మార్క్లను నిర్వహించండి";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "కాదు";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = " XHR / WebSocket / వీడియో కనెక్షన్లు కాదు";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "అలాగే";
+
+/* No comment provided by engineer. */
+"Open" = "ఓపెన్";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "తెరువు (సాధారణ బ్రౌజింగ్ మోడ్)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "క్రొత్త ట్యాబ్లో తెరవండి";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Open in Background Tab";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Safari లో తెరవండి";
+
+/* No comment provided by engineer. */
+"Other" = "ఇతర";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "పేజీ బుక్మార్క్ చేయబడింది";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "పేజీ పేరు (URL ని ఉపయోగించడానికి ఖాళీగా వదలండి)";
+
+/* Password */
+"Password" = "పాస్వర్డ్";
+
+/* No comment provided by engineer. */
+"Privacy" = "గోప్యతా";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "పేజీని రిఫ్రెష్ చేయడానికి పుల్ చేయండి";
+
+/* No comment provided by engineer. */
+"Refresh" = "రిఫ్రెష్";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "బాహ్య అతిధేయల నుండి లోడ్ చేయబడిన వనరులు పేజీ ఎలిమెంట్లను లోడ్ చేయకుండా లేదా LAN హోస్ట్లకు అభ్యర్థనలను బ్లాక్ చేయబడతాయి (192.168.0.0/16, 172.16.0.0/12, మొదలైనవి)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "ఈ హోస్ట్ నుండి లోడ్ చేసిన వనరులు పేజీ ఎలిమెంట్లను లోడ్ చేయకుండా లేదా LAN హోస్ట్లకు అభ్యర్థనలను బ్లాక్ చేయబడతాయి (192.168.0.0/16, 172.16.0.0/12, మొదలైనవి)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "వెబ్ పేజీల నుండి లోడ్ చేయబడిన వనరులపై పరిమితులు";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "ఈ హోస్ట్ వద్ద వెబ్ పుటల నుండి లోడ్ అయిన వనరులపై పరిమితులు";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "ప్రస్తుత పేజీలో ఉపయోగంలో ఉన్న నియమాలు";
+
+/* No comment provided by engineer. */
+"Save Image" = "చిత్రాన్ని సేవ్ చేయండి";
+
+/* No comment provided by engineer. */
+"Security" = "సెక్యూరిటీ";
+
+/* No comment provided by engineer. */
+"Settings" = "సెట్టింగులు";
+
+/* No comment provided by engineer. */
+"Share URL" = "URL ను భాగస్వామ్యం చేయండి";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "బుక్మార్క్లను చూపు";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "ఖచ్చితమైనది (జావాస్క్రిప్ట్, వీడియో, మొదలైనవి లేదు)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "టాబ్కు మారండి %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "ఈ హోస్ట్లకు ఈ సెట్టింగ్లు వర్తిస్తాయి మరియు దానిలోని అన్ని హోస్ట్లు (ఉదా., \"Example.com\" example.com మరియు www.example.com కు వర్తిస్తాయి)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "ఈ సెట్టింగులు ఓవర్రిస్తే మినహా అన్ని హోస్ట్ల కోసం డిఫాల్ట్గా ఉపయోగించబడతాయి";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "ఇ-మెయిల్ను పంపడానికి ఈ పరికరం కాన్ఫిగర్ చెయ్యబడలేదు. దయచేసి సెట్టింగ్ల అనువర్తనంలో మెయిల్ సెట్టింగ్లను కాన్ఫిగర్ చేయండి.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "TLS 1.2 మాత్రమే";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, లేదా 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS certificate chain verification error (self-signed certificate?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS handshake failed";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protocol error";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS సంస్కరణ";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Universal Link Protection";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "తెలియని సంస్థ";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL బ్లాకర్";
+
+/* No comment provided by engineer. */
+"User Agent" = "యూజర్ ఏజెంట్";
+
+/* No comment provided by engineer. */
+"User disabled" = "వినియోగదారు నిలిపివేయబడింది";
+
+/* No comment provided by engineer. */
+"Using defaults" = "డిఫాల్ట్లను ఉపయోగించడం";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "లోపం";
+
+/* No comment provided by engineer. */
+"Yes" = "అవును";
+

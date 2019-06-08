@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PreferenceSpecifiers</key>
+	<array>
+		<dict>
+			<key>Title</key>
+			<string>User Interface</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>If blank, the default Onion Browser page will be used</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Toolbar on bottom</string>
+			<key>Key</key>
+			<string>toolbar_on_bottom</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Dark interface</string>
+			<key>Key</key>
+			<string>dark_interface</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Mute audio with mute switch</string>
+			<key>Key</key>
+			<string>mute_with_switch</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Custom home page</string>
+			<key>Key</key>
+			<string>homepage</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>DefaultValue</key>
+			<string>http://3heens4xbedlj57xwcggjsdglot7e36p4rogy642xokemfo2duh6bbyd.onion/</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Search Engine</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>When disabled, all text entered in search bar will be sent to the search engine unless it starts with &quot;http&quot;</string>
+		</dict>
+		<dict>
+			<key>DefaultValue</key>
+			<string>DuckDuckGo</string>
+			<key>Values</key>
+			<array>
+				<string>DuckDuckGo</string>
+				<string>Google</string>
+				<string>Startpage</string>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>DuckDuckGo</string>
+				<string>Google</string>
+				<string>Startpage</string>
+			</array>
+			<key>Key</key>
+			<string>search_engine</string>
+			<key>Title</key>
+			<string>Search engine</string>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Auto-complete search results</string>
+			<key>Key</key>
+			<string>search_engine_live</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Stop auto-complete at first dot</string>
+			<key>Key</key>
+			<string>search_engine_stop_dot</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Privacy</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Cookies and local storage data from non-whitelisted hosts will be cleared even from open tabs after not being accessed for this many minutes</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>send_dnt</string>
+			<key>Title</key>
+			<string>Send Do-Not-Track header</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>IASKViewControllerClass</key>
+			<string>CookieController</string>
+			<key>Title</key>
+			<string>Edit cookies and local storage</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>old_data_sweep_mins</string>
+			<key>Title</key>
+			<string>Cookie auto-sweep interval</string>
+			<key>Type</key>
+			<string>PSTextFieldSpecifier</string>
+			<key>DefaultValue</key>
+			<integer>30</integer>
+			<key>KeyboardType</key>
+			<string>NumberPad</string>
+			<key>IASKTextAlignment</key>
+			<string>IASKUITextAlignmentRight</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Choose, how long app remembers open tabs.</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>tab_security</string>
+			<key>Title</key>
+			<string>Tab Security</string>
+			<key>Type</key>
+			<string>PSMultiValueSpecifier</string>
+			<key>DefaultValue</key>
+			<string>forget_on_shutdown</string>
+			<key>Values</key>
+			<array>
+				<string>always_remember</string>
+				<string>forget_on_shutdown</string>
+				<string>clear_on_background</string>
+			</array>
+			<key>Titles</key>
+			<array>
+				<string>Always remember open tabs</string>
+				<string>Forget tabs when app shuts down</string>
+				<string>Forget tabs when app in background</string>
+			</array>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string></string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>Changing this option requires restarting the app</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>third_party_keyboards</string>
+			<key>Title</key>
+			<string>Allow 3rd party keyboards</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>open_github_issues</string>
+			<key>Type</key>
+			<string>IASKOpenURLSpecifier</string>
+			<key>Title</key>
+			<string>Report a bug</string>
+			<key>File</key>
+			<string>onionhttps://github.com/OnionBrowser/OnionBrowser/issues</string>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Security</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+			<key>FooterText</key>
+			<string>When enabled, a per-host option to ignore further TLS errors is shown in the TLS error dialog</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>allow_tls_error_ignore</string>
+			<key>Title</key>
+			<string>Allow ignoring TLS errors</string>
+			<key>Type</key>
+			<string>PSToggleSwitchSpecifier</string>
+			<key>DefaultValue</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Title</key>
+			<string>Miscellaneous</string>
+			<key>Type</key>
+			<string>PSGroupSpecifier</string>
+		</dict>
+		<dict>
+			<key>Key</key>
+			<string>open_app_store</string>
+			<key>Type</key>
+			<string>IASKOpenURLSpecifier</string>
+			<key>Title</key>
+			<string>Rate on App Store</string>
+			<key>File</key>
+			<string>itms-apps://itunes.apple.com/app/id519296448</string>
+		</dict>
+		<dict>
+			<key>File</key>
+			<string>credits.html</string>
+			<key>IASKViewControllerClass</key>
+			<string>IASKAppSettingsWebViewController</string>
+			<key>IASKViewControllerSelector</key>
+			<string>initWithFile:specifier:</string>
+			<key>Title</key>
+			<string>About</string>
+			<key>Type</key>
+			<string>PSChildPaneSpecifier</string>
+			<key>IASKChildTitle</key>
+			<string>About Onion Browser</string>
+		</dict>
+	</array>
+	<key>StringsTable</key>
+	<string>Root</string>
+</dict>
+</plist>

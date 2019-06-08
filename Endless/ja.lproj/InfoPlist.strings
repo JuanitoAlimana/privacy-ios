@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "写真を保存する必要があります。";
+NSCameraUsageDescription = "QRコードでブリッジアドレスを読む必要があります。";

@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Çaktivizuar: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ nuk mund të jetë bosh";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Shtyp për të ndryshuar, mbaje për ta rivendosur)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Përdor parazgjedhjen)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Shto Fletëshënues";
+
+/* No comment provided by engineer. */
+"All rules" = "Të gjitha rregullat";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Lejo host -et të përdorin funksionet WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Lejo host-et të ruajnë cookies dhe databaza lokale në mënyrë të përhershme";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Lejo hostet HTTPS të ngarkojnë faqe nga hoste që nuk janë HTTPS (e dobishme për lexues RSS dhe aggregators të tjerë)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Lejo burime mixed-mode";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Lejo cookies persistentë";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Lejo këtë host të përdorë funksionet WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Lejo këtë host që të ruaj në mënyrë permanente cookies dhe databaza lokale";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Lejo hostet HTTPS të ngarkojnë burime faqesh nga hoste që nuk janë HTTPS (e dobishme për lexues RSS dhe aggregators të tjerë)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Do e lejosh këtë faqe të mbylli këtë tab?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Lejo WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Ndodhi një problem gjatë shkarkimit të imazhit: %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Nevojitet autorizim";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Blloko kërkesa nga LAN të jashtëm";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Hoste të Palëve të Treta të Bllokuara";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Fletëshënues";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Anullo";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Mbyll Tabin";
+
+/* No comment provided by engineer. */
+"Confirm" = "Konfirmo";
+
+/* No comment provided by engineer. */
+"Content policy" = "Politikat e përmbajtjes";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookies dhe memorje lokale";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Kopjo URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Krijo një tab të ri";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Opsione të personalizuara";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "String agjent-përdoruesi i personalizuar , ose bost që të përdoret i parazgjedhuri";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Opsionet e Parazgjedhura";
+
+/* No comment provided by engineer. */
+"Disable" = "Çaktivizo";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Çaktivizuar: %@";
+
+/* No comment provided by engineer. */
+"Done" = "U Krye";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Shtyp dy herë që të ndalosh tabet njoftuese";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Edito fletëshënuesin";
+
+/* No comment provided by engineer. */
+"Enable" = "Aktivizo";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Shtoni detajet e URL-së për t'u ruajtur:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Shtoni host/domain për të përcaktuar opsionet për";
+
+/* No comment provided by engineer. */
+"Error" = "Gabim";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Plotëso me 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Fokuso Fushën URL";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Opsione Globale";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Konfigurimi i Urës (Bridge)";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Problem në lidhjen me Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser e humbi lidhjen me rrjetit anonim Tor dhe është e pamundur të rilidhet. Kjo mund të ketë ndodhur nëse Onion Browser mbeti në prapaskenë ose nëse pajisja u çaktivizua ndërkohë që Onion Browser ishte aktiv.\n\nJu lutemi mbyllni aplikacionin dhe provoni përsëri. Nëse iu duhet të shtoni një fletëshënues tek faja aktuale ose nëse duhet të ruani informacionin nga faqja aktuale, mund të shtypni 'OK' që të qëndroni në aplikacion pa mundësi interneti.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Mbyll Aplikacionin";
+
+/* No comment provided by engineer. */
+"Go Back" = "Shko Prapa";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Shko Para";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Trajto shtypjet e linkeve në një mënyrë jo standarte për të shmangur ndonjë mundësi hapje të programeve të jashtme";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Trajto shtypjet e linkeve në faqet e këtij host -i në një mënyrë jo standarte për të shmangur ndonjë mundësi hapje të programeve të jashtme";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Opsionet për Host";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Host/domain";
+
+/* No comment provided by engineer. */
+"Hosts" = "Hostet";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Rregullat për HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Injoroje për këtë host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Injoro gabimet TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Adresë e pasaktë email";
+
+/* No comment provided by engineer. */
+"Log In" = "Kyçu";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Email i pakonfiguruar";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Administro fletëshënuesit";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Versioni minimal TLS i nevojshëm për host -et të negociojnë lidhjet HTTPS";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Versioni minimal TLS i nevojshëm për këtë host të negociojë lidhjet HTTPS";
+
+/* No comment provided by engineer. */
+"No" = "Jo";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Pa lidhje XHR/WebSocket/Video";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Hap";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Hap (mënyrë normale shfletimi)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Hap në një tab të ri";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Hape nën sfond";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Hap në Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Të tjera";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Faqës iu shtua një fletëshënues";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Emri i Faqes (lëreni bosh për të përdorur URL)";
+
+/* Password */
+"Password" = "Fjalëkalimi";
+
+/* No comment provided by engineer. */
+"Privacy" = "Privatësia";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Tërhiq për të Rifreskuar Faqen";
+
+/* No comment provided by engineer. */
+"Refresh" = "Rifresko";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Burime të ngarkuara nga hoste të jashtëm do bllokohen së ngarkuari elemente faqesh ose për të bërë kërkesa për në hoste LAN (192.168.0.0/16, 172.16.0.0/12, etj.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Burime të ngarkuara nga hoste të jashtëm do bllokohen së ngarkuari elemente faqesh ose për të bërë kërkesa për në hoste LAN (192.168.0.0/16, 172.16.0.0/12, etj.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Kufizime mbi burimet e ngarkuara nga faqet";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Kufizime mbi burimet e ngarkuara nga faqet e këtij hosti";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Rregullat në fuqi në faqen aktuale";
+
+/* No comment provided by engineer. */
+"Save Image" = "Ruaj Imazhin";
+
+/* No comment provided by engineer. */
+"Security" = "Siguria";
+
+/* No comment provided by engineer. */
+"Settings" = "Opsione";
+
+/* No comment provided by engineer. */
+"Share URL" = "Shpërnda URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Trego fletëshënuesit";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Strikt (pa JavaScript, video, etj.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Kalo tek Tab %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Këto opsione do të aplikohen tek ky host dhe të gjithë hostet që ndodhen nën të (psh, \"example.com\" do të aplikohet tek example.com dhe www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Këto zgjedhje do të ruhen e do të përdoren për të gjithë hostet nëse nuk vendosen rregulla të tjerë";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Kjo pajisje nuk është konfiguruar për të dërguar e-mail. Ju lutemi të konfiguroni 'Mail' në aplikacionin 'Settings'.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Vetëm TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 ose 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Gabim në verifikimin e zinxhirit të çertifikatës TLS (çertifikatë e vetë-firmosur?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Dakortësimi TLS dështoi";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Gabim protokolli TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Versioni i TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Mbrotje e Përgjithshme e Link -eve";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Organizatë e Panjohur";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Bllokuesi i URL-ve";
+
+/* No comment provided by engineer. */
+"User Agent" = "Agjent përdoruesi ";
+
+/* No comment provided by engineer. */
+"User disabled" = "Të çaktivizuara nga përdoruesi";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Duke përdorur parazgjedhjet";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Gabim";
+
+/* No comment provided by engineer. */
+"Yes" = "Po";
+

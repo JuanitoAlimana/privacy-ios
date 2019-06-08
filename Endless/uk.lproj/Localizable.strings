@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Відключено: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ не може бути пустим";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Натисніть для зміни, утримуйте для переупорядковування)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Використовувати за замовчуванням)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Додати Закладку";
+
+/* No comment provided by engineer. */
+"All rules" = "Усі правила";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Дозволити хостам доступ до функцій WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Дозволити хостам постійно зберігати файли cookie та локальні бази даних";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Дозволити хостам HTTPS завантажувати ресурси сторінок з не-HTTPS хостів (корисно для RSS та інших агрегаторів)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Дозволити ресурси змішаного режиму";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Дозволити постійні файли cookie";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Дозволити цьому хосту доступ до WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Дозволити цьому хосту постійно зберігати файли cookie та локальні бази даних";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Дозволити цьому хосту HTTPS завантажити ресурси сторінки з не-HTTPS хостів (корисно для RSS та інших агрегаторів)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Дозволити цій сторінці закрити вкладку?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Дозволити WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Виникла помилка при завантаженні зображення %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Необхідна аутентифікація";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Блокувати зовнішні LAN запити";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Блокувати сторонні хости";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Закладки";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Скасувати";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Закрити вкладку";
+
+/* No comment provided by engineer. */
+"Confirm" = "Підтвердити";
+
+/* No comment provided by engineer. */
+"Content policy" = "Політика контенту";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Файли Cookie і локальне сховище";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Копіювати URL-адресу";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Створити нову вкладку";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Налаштування користувача";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Свій агент користувача або пусте значення для використання агенту за замовчуванням";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Налаштування за замовчуванням";
+
+/* No comment provided by engineer. */
+"Disable" = "Від'єднати";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Вимкнено: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Зроблено";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Двічі торкніться, щоб закрити спливаюче вікно.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Редагувати закладку";
+
+/* No comment provided by engineer. */
+"Enable" = "Увімкнути";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Введіть інформацію про URL-адресу в закладці:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Введіть хост/домен, щоб визначити параметри для";
+
+/* No comment provided by engineer. */
+"Error" = "Помилка";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Заповнити за допомогою 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Фокус URL поля";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Глобальні налаштування";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Конфігурація мосту";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Помилка з'єднання Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Браузер Onion втратив зв'язок з мережею анонімності Tor і не зможе відновити зв'язок. Це могло статися, якщо Onion Browser перейшов у фоновий режим або якщо пристрій пішов спати, поки був активний Браузер Onion.\n\nБудь ласка, закрийте застосунок та повторіть спробу. Якщо вам потрібно закріпити поточну сторінку або зберегти інформацію з поточної сторінки, ви можете натиснути 'ОК', щоб залишитися в застосунку без можливості роботи з мережею.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Вийти з програми";
+
+/* No comment provided by engineer. */
+"Go Back" = "Повернутися";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Йти далі";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Включити нестандартну обробку натискань на посилання, щоб уникнути випадкового відкриття сторонніх додатків";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Включити обробку нестандартних натискань на посилання, щоб уникнути випадкового відкриття сторонніх додатків";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Налаштування хосту";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Хост/домен";
+
+/* No comment provided by engineer. */
+"Hosts" = "Хости";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Правила HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ігнорувати для цього хосту";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ігнорувати помилки TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Невірна адреса електронної пошти";
+
+/* No comment provided by engineer. */
+"Log In" = "Увійти";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Пошта не налаштована";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Управління закладками";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Необхідна мінімальна версія TLS для хостів щоб погодити з'єднаня HTTPS";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Необхідна мінімальна версія TLS для хостів щоб погодити з'єднаня HTTPS";
+
+/* No comment provided by engineer. */
+"No" = "Ні";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Немає під'єднань XHR/WebSocket/Video";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "Гаразд";
+
+/* No comment provided by engineer. */
+"Open" = "Відкрити";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Відкрити (звичайний режим перегляду)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Відкрити у новій вкладці";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Відкрити у фоновій вкладці";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Відкрити у Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Інше";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Сторінка з закладками";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Назва сторінки (залиште поле порожнім для використання URL-адреси)";
+
+/* Password */
+"Password" = "Пароль";
+
+/* No comment provided by engineer. */
+"Privacy" = "Конфіденційність";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Потягніть, щоб оновити сторінку";
+
+/* No comment provided by engineer. */
+"Refresh" = "Оновити";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ресурси, завантажені з зовнішніх хостів, будуть заблоковані від завантаження елементів сторінки або створення запитів до хостів LAN (192.168.0.0/16, 172.16.0.0/12 та ін.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ресурси, завантажені з цього хоста, будуть заблоковані від завантаження елементів сторінки або створення запитів до хостів LAN (192.168.0.0/16, 172.16.0.0/12 та ін.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Обмеження ресурсів, завантажених з веб-сторінок";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Обмеження ресурсів, завантажених з веб-сторінок на цьому хості";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Правила, що використовуються на цій сторінці";
+
+/* No comment provided by engineer. */
+"Save Image" = "Зберегти зображення";
+
+/* No comment provided by engineer. */
+"Security" = "Безпека";
+
+/* No comment provided by engineer. */
+"Settings" = "Налаштування";
+
+/* No comment provided by engineer. */
+"Share URL" = "Надіслати URL-адресу";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Показати закладки";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Строго (без JavaScript, відео та ін.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Перейдіть на вкладку %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Ці налаштування будуть застосовані до цього хосту та всіх хостів під ним (наприклад, \"example.com\" буде застосовано до example.com та www.example.com).";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Ці налаштування будуть використані як значення за замовчуванням для усіх хостів, якщо їх не буде змінено";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Це пристрій не налаштоване для відправки електронної пошти. Будь ласка, налаштуйте параметри Mail в Налаштуваннях.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Тільки TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, або 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Помилка перевірки ланцюжка сертифікатів TLS (самоподпісанний сертифікат?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Рукостискання TLS не вдалося";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Помилка протоколу TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Версія TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Універсальний захист посилань";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Невідома організація";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Блокувальник URL-адрес";
+
+/* No comment provided by engineer. */
+"User Agent" = "Користувацький агент";
+
+/* No comment provided by engineer. */
+"User disabled" = "Користувач від'єднаний";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Використання за замовчуванням";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Помилка";
+
+/* No comment provided by engineer. */
+"Yes" = "Так";
+

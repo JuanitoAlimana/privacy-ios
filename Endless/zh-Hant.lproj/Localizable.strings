@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@（已停用：%2$@）";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@不能為空";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "（點擊編輯，長按重新排序）";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "（使用預設值）";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "新增書籤";
+
+/* No comment provided by engineer. */
+"All rules" = "所有規則";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "所有主機都可使用  WebRTC 功能";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "允許主機永久儲存 cookie 和本機儲存資料庫";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "允許 HTTPS 主機從非 HTTPS 主機載入頁面資源（此規則對 RSS 閱讀器和其他聚合器有用）";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "允許混合模式資源";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "允許持久性 cookie";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "此主機可使用 WebRTC 功能";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "允許該主機永久儲存 cookie 和本機儲存資料庫";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "允許此 HTTPS 主機從非 HTTPS 主機載入頁面資源（該規則對 RSS 閱讀器和其他聚合器有用）";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "允許此頁面關閉其分頁？";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "可執行 WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "下載圖片 %@ 時發生錯誤";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "要求驗證";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "阻擋外部 LAN 請求";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "已阻擋第三方主機";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "書籤";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "取消";
+
+/* No comment provided by engineer. */
+"Close Tab" = "關閉分頁";
+
+/* No comment provided by engineer. */
+"Confirm" = "確認";
+
+/* No comment provided by engineer. */
+"Content policy" = "內容政策";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "cookie 和本機儲存";
+
+/* No comment provided by engineer. */
+"Copy URL" = "複製 URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "建立新分頁";
+
+/* No comment provided by engineer. */
+"Custom settings" = "自訂設定";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "自訂使用者代理字串，或留空使用預設值";
+
+/* No comment provided by engineer. */
+"Default Settings" = "預設設定";
+
+/* No comment provided by engineer. */
+"Disable" = "停用";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "已停用：%@";
+
+/* No comment provided by engineer. */
+"Done" = "已完成";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "雙擊關閉彈出式視窗。";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "編輯書籤";
+
+/* No comment provided by engineer. */
+"Enable" = "啟用";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "輸入要加入書籤的 URL 詳細資訊：";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "輸入主機／域名以定義設定";
+
+/* No comment provided by engineer. */
+"Error" = "錯誤";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "使用 1Password 填入";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "指向 URL 欄位";
+
+/* No comment provided by engineer. */
+"Global Settings" = "全域設定";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "網橋設定";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor 連線失敗";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion 瀏覽器與 Tor 匿名網路斷線無法重新連線。此可能發生在 Onion 瀏覽器在背景執行時或當裝置已進入睡眠模式而瀏覽器仍在活動時。\n\n請結束該應用程式後重新啟動。如果需要將目前的頁面新增為書籤或保存目前資訊，可按「確定」將資訊儲存在應用程式中。此功能不需要網路連線。";
+
+/* No comment provided by engineer. */
+"Quit App" = "結束應用程式";
+
+/* No comment provided by engineer. */
+"Go Back" = "上一步";
+
+/* No comment provided by engineer. */
+"Go Forward" = "下一步";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "以非標準方式處理連結，避免開啟外部應用程式";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "以非標準方式處理來此主機網頁的連結，避免不小心打開外部應用程式";
+
+/* No comment provided by engineer. */
+"Host Settings" = "主機設定";
+
+/* No comment provided by engineer. */
+"Host/domain" = "主機／域名";
+
+/* No comment provided by engineer. */
+"Hosts" = "主機";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS Everywhere 規則";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "忽略此主機";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "忽略 TLS 錯誤";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "電子郵件地址無效";
+
+/* No comment provided by engineer. */
+"Log In" = "登入";
+
+/* InAppSettingsKit */
+"Mail not configured" = "未設定電子郵件地址";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "管理書籤";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "為完成 HTTPS 連線協商，此主機至少需要 TLS 版本";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "為完成 HTTPS 連線協商，此主機至少需要 TLS 版本";
+
+/* No comment provided by engineer. */
+"No" = "否";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "無 XHR/WebSocket/視訊連線";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "確定";
+
+/* No comment provided by engineer. */
+"Open" = "開啟";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "開啟（一般瀏覽模式）";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "在新分頁開啟";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "在背景標籤分頁下開啟";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "在 Safari 中開啟";
+
+/* No comment provided by engineer. */
+"Other" = "其它";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "頁面已存為書籤";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "頁面名稱（留空會使用 URL）";
+
+/* Password */
+"Password" = "密碼";
+
+/* No comment provided by engineer. */
+"Privacy" = "隱私";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "拉動以重新整理頁面";
+
+/* No comment provided by engineer. */
+"Refresh" = "重新整理";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "從外部主機載入的資源將無法載入頁面元素或無法向本地網路主機（如 192.168.0.0/16，172.16.0.0/12 等）發出請求";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "從此主機載入的資源將無法載入頁面元素或無法向本地網路主機（如 192.168.0.0/16，172.16.0.0/12 等）發出請求";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "網頁載入資源限制";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "此主機上的網頁載入資源限制";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "目前頁面使用的規則";
+
+/* No comment provided by engineer. */
+"Save Image" = "儲存圖片";
+
+/* No comment provided by engineer. */
+"Security" = "安全";
+
+/* No comment provided by engineer. */
+"Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Share URL" = "分享 URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "顯示書籤";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "安全（無 JavaScript、視訊等）";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "切換到%d分頁";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "這些設定將套用於此主機及其下所有主機（例如 \"example.com\" 將可套用於 example.com 和 www.example.com）";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "若不加以覆寫，這些設定將會預設為所有主機之設定";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "該裝置尚未設置好用以傳送電子郵件。請在應用程式設定中設定郵件功能。";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "僅限 TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 或 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS 憑證錬驗證出錯  (為自行簽署的憑證嗎?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS 握手失敗";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS 協定出錯";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS 版本";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "通用連結保護";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "未知組織";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL 攔截";
+
+/* No comment provided by engineer. */
+"User Agent" = "使用者代理字串";
+
+/* No comment provided by engineer. */
+"User disabled" = "使用者已停用";
+
+/* No comment provided by engineer. */
+"Using defaults" = "使用預設值";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "錯誤";
+
+/* No comment provided by engineer. */
+"Yes" = "同意";
+

@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Deaktivert: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ kan ikke være tom";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(trykk for å redigere; trykk og hold for å endre rekkefølge)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Bruk standardinnstillingen)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Legg til bokmerke";
+
+/* No comment provided by engineer. */
+"All rules" = "Alle regler";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Allow hosts to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Tillat verter å lagre informasjonskapsler og databaser for lokal lagring permanent";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Tillat HTTPS-verter å laste inn sideressurser fra verter som ikke støtter HTTPS (nyttig for RSS-lesere og andre aggregeringsverktøy)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Tillat blandet-modus-ressurser";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Tillat vedvarende informasjonskapsler";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Allow this host to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Tillat denne verten å permanent lagre informasjonskapsler og lokale databaser for lagring";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Tillat denne HTTPS-verten å lagre sideressurser fra verter som ikke støtter HTTPS (nyttig for RSS-lesere og andre aggregeringsverktøy)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Tillat denne siden å lukke egen fane?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Allow WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "En feil inntraff under innlasting av bilde %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Identitetsbekreftelse kreves";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Blokker eksterne LAN-forespørsler";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Blokkerte tredjepartsverter";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Bokmerker";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Lukk fane";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bekreft";
+
+/* No comment provided by engineer. */
+"Content policy" = "Innholdspolicy";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Informasjonskapsler og lokal lagring";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Kopier nettadresse";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Opprett ny fane";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Egendefinerte innstillinger";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Egendefinert brukeragent-streng, eller la stå tom for å anvende standardinnstillingen.";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Standardinnstillinger";
+
+/* No comment provided by engineer. */
+"Disable" = "Deaktiver";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Deaktivert: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Ferdig";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Dobbelttrykk for å lukke forgrunnsvinduet.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Rediger bokmerke";
+
+/* No comment provided by engineer. */
+"Enable" = "Aktiver";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Skriv inn detaljer om nettadressen du vil legge inn bokmerke for:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Skriv inn vert/domene du skal oppgi innstillinger for";
+
+/* No comment provided by engineer. */
+"Error" = "Feil";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Fyll ut med 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Fokuser på nettadressefelt";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Innstillinger for hele appen";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Bro-oppsett";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor-tilkoblingsfeil";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion-nettleseren mistet tilkoblingen til Tor-anonymitetsnettverket og klarer ikke å koble til igjen. Dette kan inntreffe hvis nettleseren byttet til bakgrunnskjøring eller hvis enheten gikk i dvalemodus mens Onion-nettleseren var aktiv.\n\nAvslutt appen og prøv igjen. Hvis du vil legge inn bokmerke for nåværende side eller lagre informasjon fra den, kan du trykke \"OK\" for å fortsette bruk av appen uten nettverksfunksjonalitet.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Avslutt program";
+
+/* No comment provided by engineer. */
+"Go Back" = "Gå tilbake";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Gå fremover";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Vertinnstillinger";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Vert/domene";
+
+/* No comment provided by engineer. */
+"Hosts" = "Verter";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Regler for HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignore for this host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignore TLS errors";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Ugyldig e-postadresse";
+
+/* No comment provided by engineer. */
+"Log In" = "Logg inn";
+
+/* InAppSettingsKit */
+"Mail not configured" = "E-post ikke konfigurert";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Behandle bokmerker";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "Nei";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Ingen XHR-/WebSocket-/Video-tilkoblinger";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Åpne";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Åpne (modus for normal surfing)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Åpne i ny fane";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Open in Background Tab";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Åpne i Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Annet";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Bokmerke lagt inn for siden";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Sidenavn (la feltet stå tomt for å bruke nettadresse)";
+
+/* Password */
+"Password" = "Passord";
+
+/* No comment provided by engineer. */
+"Privacy" = "Personvern";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Dra for å laste inn siden på nytt.";
+
+/* No comment provided by engineer. */
+"Refresh" = "Last inn på nytt";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ressurser lastet inn fra eksterne verter blokkeres fra å laste inn sideelementer eller å sende forespørsler til LAN-verter (192.168.0.0/16, 172.16.0.0/12 osv.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Ressurser lastet inn fra denne verten blokkeres fra å laste inn sideelementer eller å sende forespørsler til LAN-verter (192.168.0.0/16, 172.16.0.0/12 osv.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Begrensninger på ressurser som er lastet inn fra nettsider";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Begrensninger på ressurser fra nettsider på denne verten";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Regler i bruk på gjeldende side";
+
+/* No comment provided by engineer. */
+"Save Image" = "Lagre bilde";
+
+/* No comment provided by engineer. */
+"Security" = "Sikkerhet";
+
+/* No comment provided by engineer. */
+"Settings" = "Innstillinger";
+
+/* No comment provided by engineer. */
+"Share URL" = "Del nettadresse";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Vis bokmerker";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Streng (ingen JavaScript, video osv.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Bytt til fane %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Disse innstillingene brukes for denne verten og alle verter under den (f.eks. vil \"eksempel.no\" ha innvirkning på eksempel.no og www.eksempel.no)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Disse innstillingene brukes som standard for alle verter om de ikke overstyres";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Denne enheten er ikke konfigurert for sending av e-post. Konfigurer e-postinnstillinger i Innstillinger-appen.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Kun TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 eller 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS certificate chain verification error (self-signed certificate?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS handshake failed";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protocol error";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS-versjon";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Universal Link Protection";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Ukjent organisasjon";
+
+/* No comment provided by engineer. */
+"URL" = "Nettadresse";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Nettadresseblokkerer";
+
+/* No comment provided by engineer. */
+"User Agent" = "Brukeragent";
+
+/* No comment provided by engineer. */
+"User disabled" = "Bruker deaktivert";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Bruker standardinnstillinger";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Feil";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+

@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Απενεργοποιημένο: %2$@) ";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "Το πεδίο %@ δεν μπορεί να είναι κενό";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Πατήστε για επεξεργασία, πατήστε παρατεταμένα για αλλαγή σειράς)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Χρήση προεπιλογής)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Προσθήκη σελιδοδείκτη";
+
+/* No comment provided by engineer. */
+"All rules" = "Όλοι οι κανόνες";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Να επιτρέπεται στους host η πρόσβαση σε λειτουργικότητες WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Να επιτρέπεται στους hosts η μόνιμη αποθήκευση cookies και τοπικών δεδομένων ";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Να επιτρέπεται στους HTTPS hosts να φορτώνουν πόρους σελίδας από hosts που δεν χρησιμοποιούν HTTPS (χρήσιμο για αναγνώστες RSS και άλλους συσσωρευτές δεδομένων)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Να επιτρέπονται οι πόροι μικτής λειτουργίας";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Να επιτρέπονται τα μόνιμα cookies";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Να επιτρέπεται σε αυτόν τον host η πρόσβαση στις λειτουργικότητες WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Να επιτρέπεται σε αυτόν τον host η μόνιμη αποθήκευση cookies και τοπικών δεδομένων";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Να επιτρέπεται σε αυτόν τον HTTPS host να φορτώσει πόρους σελίδας από hosts που δεν χρησιμοποιούν HTTPS (χρήσιμο για αναγνώστες RSS και άλλους συσσωρευτές δεδομένων)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Να επιτρέπεται σε αυτή τη σελίδα να κλείνει την καρτέλα της;";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Να επιτρέπεται το WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Παρουσιάστηκε σφάλμα κατά τη λήψη της εικόνας %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Απαιτείται πιστοποίηση";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Αποκλεισμός των εξωτερικών αιτημάτων LAN";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Αποκλεισμένοι τρίτοι hosts ";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Σελιδοδείκτες";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Ακύρωση";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Κλείσιμο καρτέλας";
+
+/* No comment provided by engineer. */
+"Confirm" = "Επιβεβαίωση";
+
+/* No comment provided by engineer. */
+"Content policy" = "Πολιτική περιεχομένου";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookies και Τοπικά δεδομένα";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Αντιγραφή διεύθυνσης URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Άνοιγμα νέας καρτέλας";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Προσαρμοσμένες ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Προσαρμοσμένη ταυτότητα πράκτορα χρήστη, ή αφήστε κενό για χρήση της προεπιλογής";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Προεπιλεγμένες ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Disable" = "Απενεργοποίηση";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Απενεργοποιημένο: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Τέλος";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Διπλό πάτημα για να απορρίψετε το αναδυόμενο παράθυρο.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Επεξεργασία σελιδοδείκτη";
+
+/* No comment provided by engineer. */
+"Enable" = "Ενεργοποίηση";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Εισάγετε τα στοιχεία του URL στο σελιδοδείκτη:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Εισάγετε τον host/domain για να καθορίσετε τις ρυθμίσεις του";
+
+/* No comment provided by engineer. */
+"Error" = "Σφάλμα";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Συμπλήρωση με 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Εστίαση στο πεδίο URL";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Γενικές ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Διαμόρφωση γέφυρας";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Αποτυχία σύνδεσης του Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Ο Onion Browser έχασε τη σύνδεση στο δίκτυο ανωνυμίας Tor και δεν μπορεί να επανασυνδεθεί. Αυτό μπορεί να συμβεί αν ο Onion Browser πήγε στο παρασκήνιο ή εάν η συσκευή εισήλθε σε λειτουργιά αναμονής ενώ ο Onion Browser ήταν ενεργοποιημένος.\n\nΚλείστε την εφαρμογή και δοκιμάστε ξανά. Αν χρειάζεται να προσθέσετε σελιδοδείκτη για την τρέχουσα σελίδα ή να αποθηκεύσετε πληροφορίες από την τρέχουσα σελίδα, μπορείτε να πατήσετε 'OK' για να παραμείνετε στην εφαρμογή χωρίς σύνδεση στο δίκτυο.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Έξοδος από την εφαρμογή";
+
+/* No comment provided by engineer. */
+"Go Back" = "Προηγούμενο";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Επόμενο";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Χειρισμός πατήματος σε συνδέσμους με μή τυπικό τρόπο, για να αποφευχθεί πιθανό άνοιγμα εξωτερικών εφαρμογών";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Χειρισμός πατήματος σε συνδέσμους σε σελίδες αυτού του host με μή τυπικό τρόπο, για να αποφευχθεί πιθανό άνοιγμα εξωτερικών εφαρμογών";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Ρυθμίσεις host";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Host/domain";
+
+/* No comment provided by engineer. */
+"Hosts" = "Hosts";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Κανόνες HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Αγνόηση για αυτό τον host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Αγνόηση σφαλμάτων TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Μη έγκυρη διεύθυνση email";
+
+/* No comment provided by engineer. */
+"Log In" = "Σύνδεση";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Δεν έχει ρυθμιστεί η αλληλογραφία";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Διαχείριση σελιδοδεικτών";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Ελάχιστη έκδοση TLS που απαιτείται για τη διαπραγμάτευση συνδέσεων HTTPS από τους hosts";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Ελάχιστη έκδοση TLS που απαιτείται για τη διαπραγμάτευση συνδέσεων HTTPS από αυτόν τον host";
+
+/* No comment provided by engineer. */
+"No" = "Όχι";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Απαγορεύονται συνδέσεις XHR / WebSocket / Video";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "Εντάξει";
+
+/* No comment provided by engineer. */
+"Open" = "Άνοιγμα";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Άνοιγμα (λειτουργία κανονικής περιήγησης)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Άνοιγμα σε νέα καρτέλα";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Άνοιγμα σε καρτέλα στο παρασκήνιο";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Άνοιγμα στο Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Άλλο";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Ο σελιδοδείκτης αποθηκεύτηκε";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Όνομα σελίδας (αφήστε το κενό για να χρησιμοποιήσετε το URL)";
+
+/* Password */
+"Password" = "Κωδικός";
+
+/* No comment provided by engineer. */
+"Privacy" = "Ιδιωτικότητα";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Τραβήξτε για ανανέωση της σελίδας";
+
+/* No comment provided by engineer. */
+"Refresh" = "Ανανέωση";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Οι πόροι που έχουν φορτωθεί από εξωτερικούς hosts θα αποκλειστούν από την φόρτωση στοιχείων σελίδας ή την υποβολή αιτημάτων στους LAN hosts (192.168.0.0/16, 172.16.0.0/12 κλπ.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Οι πόροι που έχουν φορτωθεί από αυτόν τον host θα αποκλειστούν από την φόρτωση στοιχείων σελίδας ή την υποβολή αιτημάτων στους LAN hosts (192.168.0.0/16, 172.16.0.0/12 κλπ.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Περιορισμοί στους πόρους που φορτώνονται από ιστοσελίδες";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Περιορισμοί στους πόρους που φορτώνονται από ιστοσελίδες σε αυτόν τον host";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Κανόνες που χρησιμοποιούνται στην τρέχουσα σελίδα";
+
+/* No comment provided by engineer. */
+"Save Image" = "Αποθήκευση εικόνας";
+
+/* No comment provided by engineer. */
+"Security" = "Ασφάλεια";
+
+/* No comment provided by engineer. */
+"Settings" = "Ρυθμίσεις";
+
+/* No comment provided by engineer. */
+"Share URL" = "Κοινοποίηση URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Εμφάνιση σελιδοδεικτών";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Αυστηρό (χωρίς JavaScript, βίντεο κλπ.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Μετάβαση στην καρτέλα %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Αυτές οι ρυθμίσεις θα ισχύουν για αυτόν τον host και όλους τους hosts που είναι κάτω από αυτόν (π.χ. οι ρυθμίσεις του \"example.com\" θα ισχύουν για το example.com και το www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Αυτές οι ρυθμίσεις θα χρησιμοποιηθούν ως προεπιλεγμένες για όλους τους hosts εκτός αν παρακαμφθούν";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Αυτή η συσκευή δεν έχει ρυθμιστεί για αποστολή email. Διαμορφώστε τις ρυθμίσεις Mail στην εφαρμογή Ρυθμίσεις.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Μόνο TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, ή 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Σφάλμα επιβεβαίωσης της αλυσίδας πιστοποιητικών TLS (αυτο-υπογεγραμμένο πιστοποιητικό;)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Αποτυχία χειραψίας TLS";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Σφάλμα πρωτοκόλλου TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Έκδοση TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Καθολική προστασία συνδέσμων";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Άγνωστος οργανισμός";
+
+/* No comment provided by engineer. */
+"URL" = "Διεύθυνση";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Αποκλεισμός διεύθυνσης";
+
+/* No comment provided by engineer. */
+"User Agent" = "Πράκτορας χρήστη";
+
+/* No comment provided by engineer. */
+"User disabled" = "Απενεργοποιημένος χρήστης";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Χρήση προεπιλογών";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Σφάλμα";
+
+/* No comment provided by engineer. */
+"Yes" = "Ναι ";
+

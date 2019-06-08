@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Devre dışı: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ boş bırakılamaz";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Düzenlemek için dokunun, yeniden sıralamak için basılı tutun)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Varsayılan Kullanılsın)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Yer İmi Ekle";
+
+/* No comment provided by engineer. */
+"All rules" = "Tüm kurallar";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Sunucular WebRTC işlevlerine erişebilsin";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Sunucular çerezleri ve yerel depolama veritabanlarını kalıcı olarak kaydedebilsin";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS sunucuları sayfa kaynaklarını HTTPS olmayan sunuculardan yükleyebilsin (RSS okuyucu ve diğer toplayıcılar için kullanışlıdır)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Karma kip kaynakları kullanılabilsin";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Kalıcı çerezler kullanılabilsin";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Bu sunucu WebRTC işlevlerine erişebilsin";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Bu sunucu çerezleri ve yerel depolama veritabanlarını kalıcı olarak kaydedebilsin";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Bu HTTPS sunucusu sayfa kaynaklarını HTTPS olmayan sunuculardan yükleyebilsin (RSS okuyucu ve diğer toplayıcılar için kullanışlıdır)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Sayfa kendi sekmesini kapatabilsin mi?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "WebRTC Kullanılabilsin";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "%@ görseli indirilirken bir sorun çıktı";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Kimlik Doğrulaması Gerekli";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Dış Yerel Ağ istekleri engellensin";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Engellenmiş 3. Taraf Sunucular";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Yer İmleri";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "İptal";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Sekmeyi Kapat";
+
+/* No comment provided by engineer. */
+"Confirm" = "Onayla";
+
+/* No comment provided by engineer. */
+"Content policy" = "İçerik ilkesi";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Çerezler ve Yerel Depolama";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Adresi Kopyala";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Yeni Sekme Aç";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Özel ayarlar";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Özel kullanıcı aracısı dizgesi, varsayılan değerin kullanılması için boş bırakın";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Varsayılan Ayarlar";
+
+/* No comment provided by engineer. */
+"Disable" = "Devre Dışı Bırak";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Devre dışı: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Tamam";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Açılan pencereyi yok saymak için çift dokunun.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Yer İmini Düzenle";
+
+/* No comment provided by engineer. */
+"Enable" = "Etkinleştir";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Yer imlerine eklenecek adresin ayrıntılarını yazın:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Ayarları yapılacak sunucuyu/etki alanını yazın";
+
+/* No comment provided by engineer. */
+"Error" = "Hata";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "1Password ile Doldur";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Adres Alanına Odaklan";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Genel Ayarlar";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Köprü Yapılandırması";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor bağlantısı kurulamadı";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser ile Tor ağı arasındaki bağlantı kesildi ve yeniden kurulamadı. Bu durum Onion Browser arka plana geçtiğinde ya da Onion Browser açıkken aygıt uykuya daldığında ortaya çıkabilir.\n\nLütfen uygulamadan çıkıp yeniden deneyin. Geçerli sayfayı yer imlerine eklemeniz ya da geçerli sayfadan bir bilgi kaydetmeniz gerekiyorsa ağ bağlantısı olmadan uygulamada kalmak için 'Tamam' üzerine dokunun.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Uygulamadan Çık";
+
+/* No comment provided by engineer. */
+"Go Back" = "Önceki";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Sonraki";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Dış uygulamaların açılmasını önlemek için bağlantılara dokunulduğunda standart olmayan bir şekilde davranılsın";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Dış uygulamaların açılmasını önlemek için bu sunucunun sayfalarındaki bağlantılara dokunulduğunda standart olmayan bir şekilde davranılsın";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Sunucu Ayarları";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Sunucu/Etki Alanı";
+
+/* No comment provided by engineer. */
+"Hosts" = "Sunucular";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS Everywhere Kuralları";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Bu sunucu için yok sayılsın";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "TLS hataları yok sayılsın";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "E-posta adresi geçersiz";
+
+/* No comment provided by engineer. */
+"Log In" = "Oturum Aç";
+
+/* InAppSettingsKit */
+"Mail not configured" = "E-posta yapılandırılmamış";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Yer İmleri Yönetimi";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Sunucuların HTTPS bağlantısı kurabilmesi için gereken en düşük TLS sürümü";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Sunucunun HTTPS bağlantısı kurabilmesi için gereken en düşük TLS sürümü";
+
+/* No comment provided by engineer. */
+"No" = "Hayır";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "XHR/WebSocket/Görüntü bağlantısı yok";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "Tamam";
+
+/* No comment provided by engineer. */
+"Open" = "Aç";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Aç (normal tarama kipi)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Yeni Sekmede Aç";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Sekme Arka Planda Açılsın";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Safari ile Aç";
+
+/* No comment provided by engineer. */
+"Other" = "Diğer";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Sayfa yer imlerine eklendi";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Sayfa Adı (adresin kullanılması için boş bırakın)";
+
+/* Password */
+"Password" = "Parola";
+
+/* No comment provided by engineer. */
+"Privacy" = "Gizlilik";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Sayfayı Yenilemek İçin Çekin";
+
+/* No comment provided by engineer. */
+"Refresh" = "Yenile";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Dış sunuculardan yüklenen kaynaklardaki sayfa bileşenlerinin yüklenmesi ya da Yerel Ağ sunucularına (192.168.0.0/16, 172.16.0.0/12, gibi) istek yapması engellenecek";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Bu sunucudan yüklenen kaynaklardaki sayfa bileşenlerinin yüklenmesi ya da Yerel Ağ sunucularına (192.168.0.0/16, 172.16.0.0/12, gibi) istek yapması engellenecek";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Web sayfaları tarafından yüklenen kaynaklar üzerindeki kısıtlamalar";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Bu sunucuda web sayfaları tarafından yüklenen kaynaklar üzerindeki kısıtlamalar";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Geçerli sayfada kullanılan kurallar";
+
+/* No comment provided by engineer. */
+"Save Image" = "Görseli Kaydet";
+
+/* No comment provided by engineer. */
+"Security" = "Güvenlik";
+
+/* No comment provided by engineer. */
+"Settings" = "Ayarlar";
+
+/* No comment provided by engineer. */
+"Share URL" = "Adresi Paylaş";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Yer İmlerini Görüntüle";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Kısıtlı (JavaScript, görüntü vb yok)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "%d Sekmesine Geç";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Bu ayarlar bu sunucuya ve altındaki tüm sunuculara uygulanır (Örneğin \"websitem.com\" websitem.com ve www.websitem.com sitelerine uygulanır)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Bu ayarlar başka bir yerden değiştirilmedikçe tüm sunucular için varsayılan olarak kullanılır";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Bu cihaz e-posta göndermek üzere yapılandırılmamış. Lütfen Ayarlar bölümünden E-posta ayarlarını yapılandırın.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Yalnız TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1 ya da 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS sertifikası zinciri doğrulanamadı (sertifika kendinden mi imzalı?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS el sıkışması tamamlanamadı";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS iletişim kuralı sorunu";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS sürümü";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Genel Bağlantı Koruması";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Kuruluş Bilinmiyor";
+
+/* No comment provided by engineer. */
+"URL" = "Adres";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Adres Engelleyici";
+
+/* No comment provided by engineer. */
+"User Agent" = "Kullanıcı Aracısı";
+
+/* No comment provided by engineer. */
+"User disabled" = "Kullanıcı devre dışı";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Varsayılan değerler kullanılıyor";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Hata";
+
+/* No comment provided by engineer. */
+"Yes" = "Evet";
+

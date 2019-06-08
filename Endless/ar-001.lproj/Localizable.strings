@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (مُعطّل: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ لا يمكن أن يكون فارغ";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(انقروا للتحرير، استمروا بالضغط لإعادة الترتيب)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(إستخدام الإفتراضي)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "زيادة علامة مرجعيّة ";
+
+/* No comment provided by engineer. */
+"All rules" = "جميع القواعد ";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Allow hosts to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "السماح للمضيفين بتخزين ملفات تعريف الارتباط وقواعد بيانات التخزين المحلية بشكل دائم";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "السماح لمضيفي HTTPS بتحميل موارد الصفحة من مضيفات غير HTTPS (مفيدة لقُرَّاء RSS والمُجمِّعات الأخرى)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "السماح للموارد ذات الوضع المختلط";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "السماح بملفات تعريف الارتباط الدائمة";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Allow this host to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "السماح لهذا المضيف بتخزين ملفات تعريف الارتباط وقواعد بيانات التخزين المحلية بشكل دائم";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "السماح لمضيف HTTPS هذا بتحميل موارد الصفحة من مضيفات غير HTTPS (مفيدة لقَرَّاءِ RSS والمجمِّعات الأخرى)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "هل تريدون السماح لهذه الصفحة بإغلاق التبويبة الخاصة بها؟";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Allow WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "حدث خطأ أثناء تنزيل الصورة %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "مطلوب التوثيق";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "حظر طلبات الشبكة المحلية الخارجية";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "تم حظر مضيفو الجهات الخارجية  من طرف ثالث";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "الإشارات المرجعية";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "إلغاء ";
+
+/* No comment provided by engineer. */
+"Close Tab" = "إغلاق التبويبة ";
+
+/* No comment provided by engineer. */
+"Confirm" = "تأكيد ";
+
+/* No comment provided by engineer. */
+"Content policy" = "سياسة المحتوى ";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "ملفات تعريف الارتباط والتخزين المحلي";
+
+/* No comment provided by engineer. */
+"Copy URL" = "نسخ الرّابط ";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "إنشاء تبويبة جديدة ";
+
+/* No comment provided by engineer. */
+"Custom settings" = "إعدادات خاصّة ";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "سلسلة وكيل المستخدم المخصّصة، أو فارغ لإستخدام الافتراضي";
+
+/* No comment provided by engineer. */
+"Default Settings" = "الإعدادات الافتراضيّة ";
+
+/* No comment provided by engineer. */
+"Disable" = "تعطيل";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "مُعطّل: %@";
+
+/* No comment provided by engineer. */
+"Done" = "انتهى";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "انقر نقرًا مزدوجًا لإغلاق النافذة المنبثقة.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "تعديل العلامة المرجعيّة";
+
+/* No comment provided by engineer. */
+"Enable" = "تفعيل ";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "أدخلوا تفاصيل الرابط للإشارة المرجعية:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "أدخلوا المضيف/النطاق لتعريف الإعدادات لـ";
+
+/* No comment provided by engineer. */
+"Error" = "خطأ";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "املؤوا بواسطة 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "تركيز حقل الرابط";
+
+/* No comment provided by engineer. */
+"Global Settings" = "الإعدادات العامة";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "تكوين الجِسْر";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "فشل إتصال Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "فقد متصفح Onion الإتصال بشبكة Tor المجهولة وهوغير قادر على إعادة الاتصال. قد يحدث هذا إذا ذهب متصفح Onion إلى الخلفية أو إذا كان الجهاز غير نشط بينما كان متصفح Onion نشطًا.\n\nيرجى الخروج من التطبيق والمحاولة مرّة أخرى. إذا كنتم بحاجة إلى وضع إشارة مرجعية على الصفحة الحالية أو حفظ المعلومات منها، بإمكانكم الضغط على \"OK\" للبقاء في التطبيق بدون قدرة الشبكة.";
+
+/* No comment provided by engineer. */
+"Quit App" = "إغلاق التطبيق";
+
+/* No comment provided by engineer. */
+"Go Back" = "العودة للخلف";
+
+/* No comment provided by engineer. */
+"Go Forward" = "الذهاب للأمام";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Host Settings" = "إعدادات المضيف";
+
+/* No comment provided by engineer. */
+"Host/domain" = "المضيف/النطاق";
+
+/* No comment provided by engineer. */
+"Hosts" = "المضيفين";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "قواعد HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignore for this host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignore TLS errors";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "عنوان البريد الإلكتروني غير صالح";
+
+/* No comment provided by engineer. */
+"Log In" = "تسجيل الدخول";
+
+/* InAppSettingsKit */
+"Mail not configured" = "البريد غير مضبوط";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "إدارة الإشارات المرجعية";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "الحد الأدنى للإصدار المطلوب من TLS من قبل المضيفين للتفاوض على إتصالات HTTPS";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "الحد الأدنى للإصدار المطلوب من TLS من قبل هذا المضيف للتفاوض على إتصالات HTTPS";
+
+/* No comment provided by engineer. */
+"No" = "لا";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "بدون إتصالات XHR/WebSocket/Video";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "موافق/ة";
+
+/* No comment provided by engineer. */
+"Open" = "فتح";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "فتح (وضع التصفّح العادي)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "فتح في تبويبه جديدة";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Open in Background Tab";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "فتح في سفاري";
+
+/* No comment provided by engineer. */
+"Other" = "آخر";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "حُفظت الصفحة";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "إسم الصفحة (اتركوه فارغًا لإستخدام الرابط)";
+
+/* Password */
+"Password" = "كلمة السر";
+
+/* No comment provided by engineer. */
+"Privacy" = "الخصوصية";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "اسحب/ي لتحديث الصفحة";
+
+/* No comment provided by engineer. */
+"Refresh" = "تحديث";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "سيتم حظر الموارد التي تم تحميلها من مضيفين خارجيين من تحميل عناصر الصفحة أو تقديم طلبات إلى مضيفي الشبكة المحلية (192.168.0.0/16 ، 172.16.0.0/12 ، إلخ.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "سيتم حظر الموارد التي تم تحميلها من هذا المضيف من تحميل عناصر الصفحة أو تقديم طلبات إلى مضيفي الشبكة المحلية (192.168.0.0/16 ، 172.16.0.0/12 ، إلخ.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "قيود على الموارد المحمّلة من صفحات الويب";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "قيود على الموارد المحمّلة من صفحات الويب على هذا المضيف";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "القواعد المستخدمة في الصفحة الحالية";
+
+/* No comment provided by engineer. */
+"Save Image" = "حفظ الصورة";
+
+/* No comment provided by engineer. */
+"Security" = "الأمن ";
+
+/* No comment provided by engineer. */
+"Settings" = "الإعدادات";
+
+/* No comment provided by engineer. */
+"Share URL" = "مشاركة الرابط";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "عرض الإشارات المرجعية";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "صارم (بدون JavaScript، فيديو، إلخ.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "التبديل إلى التبويبه %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "سيتم تطبيق هذه الإعدادات على هذا المضيف وجميع المضيفات الموجودة تحته (على سبيل المثال، سيتم تطبيق \"example.com\" على example.com و www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "سيتم استخدام هذه الإعدادات كإعدادات افتراضية لجميع المضيفات ما لم يتم تجاوزها";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "لم يتم تكوين هذا الجهاز لإرسال البريد الإلكتروني. يرجى تكوين إعدادات البريد في تطبيق الإعدادات.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "TLS 1.2 فقط";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, أو 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS certificate chain verification error (self-signed certificate?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS handshake failed";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protocol error";
+
+/* No comment provided by engineer. */
+"TLS version" = "إصدار TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Universal Link Protection";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "منظمة غير معروفة";
+
+/* No comment provided by engineer. */
+"URL" = "الرابط";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "مانع الروابط";
+
+/* No comment provided by engineer. */
+"User Agent" = "وكيل المستخدم/ة";
+
+/* No comment provided by engineer. */
+"User disabled" = "المستخدم/ة مُعطّل/ة";
+
+/* No comment provided by engineer. */
+"Using defaults" = "بإستخدام الخيارات الإفتراضيّة";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "خطأ";
+
+/* No comment provided by engineer. */
+"Yes" = "نعم";
+

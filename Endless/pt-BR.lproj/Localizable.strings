@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Desativado: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ não pode estar vazio";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Toque para editar, segure para reordenar)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Usar Padrão)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Adicionar Marcador";
+
+/* No comment provided by engineer. */
+"All rules" = "Todas as regras";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Permitir que hosts acessem funções do WebRTC";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Permitir que os hosts armazenem permanentemente cookies e bancos de dados de armazenamento local";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Permitir que hosts HTTPS carreguem recursos de página de hosts não HTTPS (útil para leitores de RSS e outros agregadores)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Permitir recursos de modo misto";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Permitir cookies persistentes";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Permitir que este host acesse as funções do WebRTC";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Permitir que este host armazene permanentemente cookies e bancos de dados de armazenamento local";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Permitir que esse host HTTPS carregue recursos de página de hosts não HTTPS (útil para leitores de RSS e outros agregadores)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Permitir que esta página feche sua aba?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Permitir WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Ocorreu um erro ao baixar a imagem %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Exige Autenticação";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Bloquear solicitações de LAN externo";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Hosts de Terceiros Bloqueados";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Marcadores";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Cancelar";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Fechar Aba";
+
+/* No comment provided by engineer. */
+"Confirm" = "Confirmar";
+
+/* No comment provided by engineer. */
+"Content policy" = "Política de Conteúdo";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookies e Armazenamento Local";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Copiar URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Criar Nova Aba";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Configurações personalizadas";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "User-agent string personalizado, ou em branco para usar o padrão";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Configurações Padrão";
+
+/* No comment provided by engineer. */
+"Disable" = "Desativar";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Desabilitado: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Concluído";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Toque duas vezes para dispensar a janela pop-up.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Editar Marcador";
+
+/* No comment provided by engineer. */
+"Enable" = "Habilitar\n";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Digite os detalhes da URL para o marcador:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Digite o host/domínio para definir as configurações";
+
+/* No comment provided by engineer. */
+"Error" = "Erro";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Preencher com 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Focus URL Field";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Configurações Globais";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Configuração de Ponte";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Falha de conexão Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "O Onion Browser perdeu sua conexão com a rede de anonimato do Tor e não pode se reconectar. Isso pode ocorrer se o Onion Browser for para o segundo plano ou se o dispositivo tiver sido suspenso enquanto o Onion Browser estiver ativo.\n\nPor favor, saia do aplicativo e tente novamente. Se você precisar marcar a página atual ou salvar informações da página atual, pressione 'OK' para permanecer no aplicativo sem o recurso de rede.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Aplicativo Quit";
+
+/* No comment provided by engineer. */
+"Go Back" = "Voltar";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Ir em frente";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Lidar com acesso a linques de forma não padronizada para evitar a possibilidade de abrir aplicativos externos";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Manipule acesso aos linques em páginas desse host de maneira não padrão para evitar a possibilidade de abrir aplicativos externos";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Configurações do Host";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Host/domínio";
+
+/* No comment provided by engineer. */
+"Hosts" = "Hosts";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS Everywhere Rules ";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignore para este hospedeiro";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignorar os erros TLS";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Endereço de email inválido\n";
+
+/* No comment provided by engineer. */
+"Log In" = "Entrar";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Mail não configurado";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Gerenciar Marcadores ";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "Não";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Nenhuma conexão XHR/WebSocket/Video";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Abrir";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Aberto (modo de navegação normal)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Abrir em uma nova aba";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Abrir Guia em Segundo Plano";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Abrir no Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Outro";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Página marcada";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Nome da Página (deixe em branco para usar o URL)";
+
+/* Password */
+"Password" = "Senha";
+
+/* No comment provided by engineer. */
+"Privacy" = "Privacidade";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Puxar para Atualizar Página";
+
+/* No comment provided by engineer. */
+"Refresh" = "Atualizar";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Recursos carregados de hosts externos serão impedidos de carregar elementos da página ou fazer solicitações nos hosts da LAN (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Os recursos carregados deste host serão bloqueados para o carregamento de elementos da página ou para solicitações nos hosts da LAN (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Restrições de recursos carregados de páginas da web";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Restrições de recursos carregados de páginas da web neste host";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Rules em uso na página atual";
+
+/* No comment provided by engineer. */
+"Save Image" = "Salvar Imagem";
+
+/* No comment provided by engineer. */
+"Security" = "Segurança";
+
+/* No comment provided by engineer. */
+"Settings" = "Configurações";
+
+/* No comment provided by engineer. */
+"Share URL" = "Compartilhar URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Mostrar Marcadores";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Restrito (sem JavaScript, vídeo etc.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Switch to Tab %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Essas configurações serão aplicadas a esse host e a todos os hosts sob o domínio dele (por exemplo, \"example.com\" será aplicado a example.com e www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Essas configurações serão usadas como padrão para todos os hosts, a menos que sejam substituídas";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Este dispositivo não está configurado para enviar e-mail. Por favor, defina as configurações do Email no aplicativo Configurações.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Somente TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, ou 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Erro de verificação da cadeia de certificados TLS (certificado autoassinado?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "Falha TLS na conexão";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Erro no protocole TLS";
+
+/* No comment provided by engineer. */
+"TLS version" = "Versão TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Proteção Universal de Linque";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Organização Desconhecida";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Bloqueador de URL";
+
+/* No comment provided by engineer. */
+"User Agent" = "User Agent";
+
+/* No comment provided by engineer. */
+"User disabled" = "Usuário desativado";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Usando padrões";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Erro";
+
+/* No comment provided by engineer. */
+"Yes" = "Sim";
+

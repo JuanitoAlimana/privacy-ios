@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (अक्षम: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@खाली नहीं हो सकता ";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(संपादित करने के लिए टैप करें, पुनः क्रम को दबाए रखें)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(पूर्व निर्धारित उपयोग करें)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "बुकमार्क जोड़ें";
+
+/* No comment provided by engineer. */
+"All rules" = "सभी नियम";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "होस्ट को WebRTC फ़ंक्शंस तक पहुंचने की अनुमति दें";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "होस्ट्स को स्थायी रूप से कुकीज और स्थानीय संग्रहण डेटाबेस को संग्रहीत करने की अनुमति दें";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS होस्ट्स को गैर-HTTPS होस्ट्स (RSS रीडर और अन्य एग्रीगेटर के लिए उपयोगी) से पृष्ठ संसाधनों को लोड करने की अनुमति देता है";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "मिश्रित-मोड संसाधनों को अनुमति दें";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "लगातार कुकीज़ की अनुमति दें";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "होस्ट को WebRTC फ़ंक्शंस तक पहुंचने की अनुमति दें";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "इस होस्ट्स को स्थायी रूप से कुकीज़ और स्थानीय संग्रहण डेटाबेस को संग्रहीत करने की अनुमति दें";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS होस्ट्स को गैर-HTTPS होस्ट्स (RSS रीडर और अन्य एग्रीगेटर के लिए उपयोगी) से पृष्ठ संसाधनों को लोड करने की अनुमति देता है";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "इस पृष्ठ को इसकी टैब बंद करने दें?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "WebRTC को अनुमति दें";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "छवि डाउनलोड करने में एक त्रुटि हुई %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "प्रमाणीकरण आवश्यक";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "बाहरी LAN अनुरोधों को अवरोधित करें";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "अवरुद्ध तृतीय-पक्ष होस्ट्स होस्ट्स ";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "बुकमार्क";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "रद्द करना";
+
+/* No comment provided by engineer. */
+"Close Tab" = "टैब बंद करें";
+
+/* No comment provided by engineer. */
+"Confirm" = "पुष्टि करें";
+
+/* No comment provided by engineer. */
+"Content policy" = "सामग्री नीति";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "कुकीज़ और स्थानीय संचयन";
+
+/* No comment provided by engineer. */
+"Copy URL" = "URL नकल करें";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "नया टैब बनाएं";
+
+/* No comment provided by engineer. */
+"Custom settings" = "कस्टम सेटिंग्स";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "कस्टम उपयोगकर्ता-एजेंट स्ट्रिंग, या डिफ़ॉल्ट का उपयोग करने के लिए खाली";
+
+/* No comment provided by engineer. */
+"Default Settings" = "डिफ़ॉल्ट सेटिंग्स";
+
+/* No comment provided by engineer. */
+"Disable" = "अक्षम";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "अक्षम: %@";
+
+/* No comment provided by engineer. */
+"Done" = "किया हुआ";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "पॉप-अप विंडो को खारिज करने के लिए डबल-टैप करें।";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "बुकमार्क संपादित करें";
+
+/* No comment provided by engineer. */
+"Enable" = "सक्षम";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "बुकमार्क के लिए URL का विवरण दर्ज करें:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "के लिए सेटिंग को परिभाषित करने के लिए होस्ट / डोमेन दर्ज करें";
+
+/* No comment provided by engineer. */
+"Error" = "त्रुटि";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "1Password के साथ भरें";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "URL फ़ील्ड ध्यान केंद्रित";
+
+/* No comment provided by engineer. */
+"Global Settings" = "वैश्विक सेटिंग्स";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "ब्रिज कॉन्फ़िगरेशन";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor कनेक्शन विफलता";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser, Tor अनावरण नेटवर्क से कनेक्शन खो गया है और फिर से कनेक्ट करने में असमर्थ है। यह तब हो सकता है जब Onion Browser पृष्ठभूमि पर गया या अगर डिवाइस सो गया तो Onion Browser सक्रिय था।\n\nकृपया ऐप को छोड़ दें और फिर से प्रयास करें। यदि आपको वर्तमान पृष्ठ को बुकमार्क करने या वर्तमान पृष्ठ से जानकारी सहेजने की आवश्यकता है, तो आप नेटवर्क क्षमता के बिना ऐप में रहने के लिए 'ठीक' दबा सकते हैं।";
+
+/* No comment provided by engineer. */
+"Quit App" = "ऐप को छोड़ें";
+
+/* No comment provided by engineer. */
+"Go Back" = "वापस जाओ";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Go Forward";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "संभवतः बाहरी अनुप्रयोगों को खोलने से बचने के लिए एक गैर-मानक तरीके से लिंक पर टैपिंग को संभाले";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "संभवतः बाहरी अनुप्रयोगों को खोलने से बचने के लिए गैर-मानक तरीके से इस होस्ट के पृष्ठों पर लिंक पर टैपिंग को संभालिये";
+
+/* No comment provided by engineer. */
+"Host Settings" = "होस्ट सेटिंग्स";
+
+/* No comment provided by engineer. */
+"Host/domain" = "होस्ट/डोमेन";
+
+/* No comment provided by engineer. */
+"Hosts" = "होस्ट";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS हर जगह";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS हर जगह नियम";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "इस होस्ट के लिए उपेक्षा करें";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "TLS त्रुटियों को अनदेखा करें";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "अमान्य ईमेल पता";
+
+/* No comment provided by engineer. */
+"Log In" = "लॉग इन";
+
+/* InAppSettingsKit */
+"Mail not configured" = "मेल कॉन्फ़िगर नहीं किया गया";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "बुकमार्क्स प्रबंधित करें";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "नहीं";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "कोई XHR/वेबसॉकेट/वीडियो कनेक्शन नहीं";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "ठीक";
+
+/* No comment provided by engineer. */
+"Open" = "खुला";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "ओपन (सामान्य ब्राउज़िंग मोड)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "एक नई टैब में खोलें";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "पृष्ठभूमि टैब में खोलें";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Safari में खोलें";
+
+/* No comment provided by engineer. */
+"Other" = "अन्य";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "पृष्ठ बुकमार्क किया गया";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "पृष्ठ का नाम (URL का उपयोग करने के लिए खाली छोड़ दें)";
+
+/* Password */
+"Password" = "पासवर्ड";
+
+/* No comment provided by engineer. */
+"Privacy" = "गुप्तता";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "पुनश्चर्या को खींचें";
+
+/* No comment provided by engineer. */
+"Refresh" = "पुनश्चर्या";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "बाह्य मेजबानों से भरी गई संसाधनों को पृष्ठ तत्वों को लोड करने या LAN होस्ट करने के अनुरोध करने से अवरुद्ध किया जाएगा (192.168.0.0/16, 172.16.0.0/12, आदि)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "इस मेजबान से लोड किए गए संसाधनों को पृष्ठ तत्वों को लोड करने या LAN होस्ट करने के अनुरोध करने से अवरुद्ध किया जाएगा (192.168.0.0/16, 172.16.0.0/12, आदि)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "वेब पृष्ठों से भरी हुई संसाधनों पर प्रतिबंध";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "इस मेजबान पर वेब पेजों से भरी हुई संसाधनों पर प्रतिबंध";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "वर्तमान पृष्ठ पर उपयोग में नियम";
+
+/* No comment provided by engineer. */
+"Save Image" = "चित्र को सेव करें";
+
+/* No comment provided by engineer. */
+"Security" = "सुरक्षा";
+
+/* No comment provided by engineer. */
+"Settings" = "सेटिंग्स";
+
+/* No comment provided by engineer. */
+"Share URL" = "URL साझा करें";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "बुकमार्क्स दिखाएं";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "सख्त (कोई JavaScript, वीडियो, आदि)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "टैब पर स्विच करें %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "ये सेटिंग इस होस्ट पर लागू होंगी और इसके तहत सभी होस्ट (उदाहरण के लिए, \"example.com\" example.com और www.example.com पर लागू होगा)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "इन सेटिंग्स का उपयोग तब तक सभी होस्ट के लिए डिफ़ॉल्ट के रूप में किया जाएगा जब तक ओवरराइड नहीं किया जाएगा";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "ई-मेल भेजने के लिए यह डिवाइस कॉन्फ़िगर नहीं है सेटिंग्स ऐप में मेल सेटिंग्स कॉन्फ़िगर करें";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "केवल TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, या 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS प्रमाणपत्र श्रृंखला सत्यापन त्रुटि (स्व-हस्ताक्षरित प्रमाण पत्र?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS हैंडशेक विफल रहा";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS प्रोटोकॉल त्रुटि";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS संस्करण";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "यूनिवर्सल लिंक संरक्षण";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "अज्ञात संगठन";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL अवरोधक";
+
+/* No comment provided by engineer. */
+"User Agent" = "उपभोक्ता अभिकर्ता";
+
+/* No comment provided by engineer. */
+"User disabled" = "उपयोगकर्ता अक्षम";
+
+/* No comment provided by engineer. */
+"Using defaults" = "डिफ़ॉल्ट का उपयोग करना";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "त्रुटि";
+
+/* No comment provided by engineer. */
+"Yes" = "हाँ";
+

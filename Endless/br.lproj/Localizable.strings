@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Lazhet: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ n'hall ket bezañ goullo";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Tap to edit, hold to re-order)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Use Default)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Add Bookmark";
+
+/* No comment provided by engineer. */
+"All rules" = "All rules";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Allow hosts to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Allow hosts to permanently store cookies and local storage databases";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Allow mixed-mode resources";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Aotren an toupinoù padus";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Allow this host to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Allow this host to permanently store cookies and local storage databases";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Allow this page to close its tab?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Allow WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "An error occurred downloading image %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Authentication Required";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Block external LAN requests";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Blocked 3rd-Party Hosts";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Bookmarks";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Close Tab";
+
+/* No comment provided by engineer. */
+"Confirm" = "Confirm";
+
+/* No comment provided by engineer. */
+"Content policy" = "Content policy";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookies and Local Storage";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Copy URL";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Create New Tab";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Custom settings";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Custom user-agent string, or blank to use the default";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Default Settings";
+
+/* No comment provided by engineer. */
+"Disable" = "Disable";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Disabled: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Done";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Double-tap to dismiss pop-up window.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Edit Bookmark";
+
+/* No comment provided by engineer. */
+"Enable" = "Enable";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Ebarzhiñ munudoù an URL d'ar sined:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Enter the host/domain to define settings for";
+
+/* No comment provided by engineer. */
+"Error" = "Fazi";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Fill with 1Password";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Focus URL Field";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Arventennoù hollek";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Bridge Configuration";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor connection failure";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion Browser lost connection to the Tor anonymity network and is unable to reconnect. This may occur if Onion Browser went to the background or if the device went to sleep while Onion Browser was active.\n\nPlease quit the app and try again. If you need to bookmark the current page or save information from the current page, you may press 'OK' to remain in the app without network capability.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Quit App";
+
+/* No comment provided by engineer. */
+"Go Back" = "Go Back";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Go Forward";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Host Settings";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Host/domain";
+
+/* No comment provided by engineer. */
+"Hosts" = "Herbrec'hioù";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS Everywhere Rules";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignore for this host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignore TLS errors";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Invalid email address";
+
+/* No comment provided by engineer. */
+"Log In" = "Log In";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Mail not configured";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Manage Bookmarks";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "Ket";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "No XHR/WebSocket/Video connections";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "Mat eo";
+
+/* No comment provided by engineer. */
+"Open" = "Open";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Open (normal browsing mode)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Open in a New Tab";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Open in Background Tab";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Open in Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Other";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Page bookmarked";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Page Name (leave blank to use URL)";
+
+/* Password */
+"Password" = "Password";
+
+/* No comment provided by engineer. */
+"Privacy" = "Privacy";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Pull to Refresh Page";
+
+/* No comment provided by engineer. */
+"Refresh" = "Freskaat";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Restrictions on resources loaded from web pages";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Restrictions on resources loaded from web pages at this host";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Rules in use on current page";
+
+/* No comment provided by engineer. */
+"Save Image" = "Save Image";
+
+/* No comment provided by engineer. */
+"Security" = "Security";
+
+/* No comment provided by engineer. */
+"Settings" = "Settings";
+
+/* No comment provided by engineer. */
+"Share URL" = "Share URL";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Show Bookmarks";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Strict (no JavaScript, video, etc.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Gwintañ war-zu ivinell %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "These settings will be used as defaults for all hosts unless overridden";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "This device is not configured for sending e-mail. Please configure the Mail settings in the Settings app.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "TLS 1.2 Only";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, or 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS certificate chain verification error (self-signed certificate?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS handshake failed";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protocol error";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS version";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Universal Link Protection";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Unknown Organization";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL Blocker";
+
+/* No comment provided by engineer. */
+"User Agent" = "User Agent";
+
+/* No comment provided by engineer. */
+"User disabled" = "User disabled";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Using defaults";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Fazi";
+
+/* No comment provided by engineer. */
+"Yes" = "Ya";
+

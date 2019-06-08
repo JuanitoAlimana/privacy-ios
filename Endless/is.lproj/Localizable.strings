@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Óvirkt: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ má ekki vera autt";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(banka til að breyta, halda niðri til að endurraða)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(nota sjálfgefið)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Bæta við bókamerki";
+
+/* No comment provided by engineer. */
+"All rules" = "Allar reglur";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Leyfa tölvum að nota WebRTC aðgerðir";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "Leyfa þjónum að geyma vefkökur og gagnagrunna á tæki";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Leyfa HTTPS-þjónum að hlaða inn síðutilföngum frá þjónum sem ekki nota HTTPS-dulritun (nýtist fyrir RSS-lesara og aðra streymisafnara)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Leyfa tilföng í blönduðum ham";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Leyfa varanlegar vefkökur";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Leyfa þessari tölvu að nota WebRTC aðgerðir";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Leyfa þessum þjóni að geyma vefkökur og gagnagrunna á tæki";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Leyfa þessum HTTPS-þjóni að hlaða inn síðutilföngum frá þjónum sem ekki nota HTTPS-dulritun (nýtist fyrir RSS-lesara og aðra streymisafnara)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Leyfa þessari síðu að loka flipanum sínum?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Leyfa WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Villa kom upp við að sækja myndina %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Auðkenningar krafist";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Loka á beiðnir utan staðarnets";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Bannaðir utanaðkomandi þjónar";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Bókamerki";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Hætta við";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Loka flipa";
+
+/* No comment provided by engineer. */
+"Confirm" = "Staðfesta";
+
+/* No comment provided by engineer. */
+"Content policy" = "Stefna varðandi efni";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Vefkökur og gagnageymslur á tæki";
+
+/* No comment provided by engineer. */
+"Copy URL" = "Afrita slóð";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Opna nýjan flipa";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Sérsniðnar stillingar";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Sérsniðinn kennistrengur, eða autt til að nota þann sjálfgefna";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Sjálfgefnar stillingar";
+
+/* No comment provided by engineer. */
+"Disable" = "Gera óvirkt";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Óvirkt: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Lokið";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Bankaðu tvisvar til að loka sprettglugganum.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Breyta bókamerki";
+
+/* No comment provided by engineer. */
+"Enable" = "Virkja";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Settu inn lýsingu á slóðinni sem á að bókamerkja:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Settu inn hýsilþjón/lén sem á að skilgreina stillingar fyrir";
+
+/* No comment provided by engineer. */
+"Error" = "Villa";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Fylla með 1Password-lykilorði";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Virkni í slóðarreit";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Víðværar stillingar";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Uppsetning brúa";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tengivilla í Tor";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Onion-vafrinn missti tengingu við Tor-persónuverndarnetið og tekst ekki að tengjast aftur. Þetta getur gerst ef Onion-vafrinn lendir í bakgrunni eða ef tækið var svæft á meðan Onion-vafrinn var virkur.\n\nFarðu út úr forritinu og reyndu aftur. Ef þú þarft að bókamerkja síðuna sem þú ert á eða vista upplýsingar af henni, geturðu ýtt á 'Í lagi' til að haldast inni í forritinu án nettengingar.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Hætta í forriti";
+
+/* No comment provided by engineer. */
+"Go Back" = "Til baka";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Áfram";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Meðhöndla þegar ýtt er á tengla á óvenjulegan hátt, til að koma í veg fyrir að utanaðkomandi forrit opnist óvart";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Meðhöndla þegar ýtt er á óvenjulegan hátt á tengla á síðum frá þessari tölvu, til að koma í veg fyrir að utanaðkomandi forrit opnist óvart";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Stillingar hýsilþjóns";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Hýsilþjónn/Lén";
+
+/* No comment provided by engineer. */
+"Hosts" = "Hýsilþjónar";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "Reglur fyrir HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Hunsa fyrir þennan hýsil";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Hunsa TLS-villur";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Ógilt tölvupóstfang";
+
+/* No comment provided by engineer. */
+"Log In" = "Skrá inn";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Tölvupóstur er ekki uppsettur";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Sýsla með bókamerki";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Lágmarksútgáfa TLS sem krafist er af þjónum fyrir meðhöndlun HTTPS-tenginga";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Lágmarksútgáfa TLS sem krafist er af þessum þjóni fyrir meðhöndlun HTTPS-tenginga";
+
+/* No comment provided by engineer. */
+"No" = "Nei";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Engar XHR/WebSocket/myndskeiðs-tengingar";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "Í lagi";
+
+/* No comment provided by engineer. */
+"Open" = "Opna";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Opna (venjulegur vafurhamur)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Opna í nýjum flipa";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Opna í bakgrunnsflipa";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Opna í Safari";
+
+/* No comment provided by engineer. */
+"Other" = "Annað";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Síða bókamerkt";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Heiti síðu (skildu eftir autt til að nota vefslóðina)";
+
+/* Password */
+"Password" = "Lykilorð";
+
+/* No comment provided by engineer. */
+"Privacy" = "Meðferð persónuupplýsinga";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Toga til að endurhlaða síðu";
+
+/* No comment provided by engineer. */
+"Refresh" = "Endurlesa";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Tilföng sem hlaðið er inn frá utanaðkomandi þjónum verða útilokuð frá innhleðslu síðuhluta eða frá því að gera beiðnir til þjóna á staðarneti (LAN: 192.168.0.0/16, 172.16.0.0/12, o.s.frv.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Tilföng sem hlaðið er inn frá þessum þjóni verða útilokuð frá innhleðslu síðuhluta eða frá því að gera beiðnir til þjóna á staðarneti (LAN: 192.168.0.0/16, 172.16.0.0/12, o.s.frv.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "Takmarkanir á tilföng sem hlaðið er inn af vefsíðum";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "Takmarkanir á þessum þjóni á tilföng sem hlaðið er inn af vefsíðum";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Reglur í notkun á núverandi síðu";
+
+/* No comment provided by engineer. */
+"Save Image" = "Vista mynd";
+
+/* No comment provided by engineer. */
+"Security" = "Öryggi";
+
+/* No comment provided by engineer. */
+"Settings" = "Stillingar";
+
+/* No comment provided by engineer. */
+"Share URL" = "Deila slóð";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Birta bókamerki";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Strangt (ekkert JavaScript, myndskeið, o.s.frv.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Skipta yfir í flipa %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Þessar stillingar verða notaðar fyrir þennan þjón og alla þjóna þar undir (t.d. \"dæmi.com\" mun eiga við dæmi.com og www.dæmi.com)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Þessar stillingar verða notaðar sem sjálfgefnar fyrir alla þjóna nema annað sé tekið fram";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Þetta tæki er ekki sett upp til að senda tölvupóst. Græjaðu uppsetningu í póststillingum í stillingaforritinu.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Aðeins TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, eða 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "Villa í sannvottun TLS-skilríkjakeðju (sjálfundirritað skilríki?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS-handaband mistókst";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "Villa í TLS-samskiptamáta";
+
+/* No comment provided by engineer. */
+"TLS version" = "Útgáfa TLS";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Almenn vörn tengla";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Óþekktur aðili";
+
+/* No comment provided by engineer. */
+"URL" = "Slóð (URL)";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "Banna URL-slóðir";
+
+/* No comment provided by engineer. */
+"User Agent" = "Kennisstrengur";
+
+/* No comment provided by engineer. */
+"User disabled" = "Notandi óvirkur";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Nota sjálfgefin gildi";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Villa";
+
+/* No comment provided by engineer. */
+"Yes" = "Já";
+

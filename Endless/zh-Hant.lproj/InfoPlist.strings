@@ -1,0 +1,9 @@
+﻿/*
+ InfoPlist.strings
+ Endless
+
+ Created by Benjamin Erhart on 03.04.19.
+ Copyright © 2019 jcs. All rights reserved.
+ */
+NSPhotoLibraryAddUsageDescription = "要儲存所選的圖片到個人照片下";
+NSCameraUsageDescription = "要從顯示的 QR 碼來讀取所指的地址";

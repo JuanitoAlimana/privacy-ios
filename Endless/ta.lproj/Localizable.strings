@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (முடக்கப்பட்டது : %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ காலியாக இருக்க முடியாது";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(திருத்துவதற்கு தட்டவும், மறு ஒழுங்கு செய்யுங்கள் )";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(இயல்புநிலையை பயன்படுத்தவும்)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "புத்தகக்குறியை சேர்க்கவும்";
+
+/* No comment provided by engineer. */
+"All rules" = "அனைத்து விதிகள்";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Allow hosts to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "நினைவிகள் மற்றும் உள்ளூர் சேமிப்பு தரவுத்தளங்களை நிரந்தரமாக சேமிக்க புரவலன்களை அனுமதிக்கவும்";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS அல்லாத புரவாலன்களை இருந்து பக்க ஆதாரங்களை ஏற்ற HTTPS புரவாலன்களை அனுமதிக்கவும் (RSS வாசகர்களுக்கும் மற்ற திரட்டிகளுக்கும் பயனுள்ளதாக இருக்கும்)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "கலப்பு முறை ஆதாரங்களை அனுமதிக்கவும்";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "தொடர்ந்து நினைவிகளை அனுமதிக்கவும்";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Allow this host to access WebRTC functions";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "இந்த புரவாலன்களை நிரந்தரமாக நினைவிகள் மற்றும் உள்ளூர் சேமிப்பு தரவுத்தளங்களை சேமிக்க அனுமதிக்கவும்";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "HTTPS அல்லாத பிறரிடமிருந்து பக்க வளங்களை ஏற்றுவதற்கு இந்த HTTPS ஹோஸ்ட் அனுமதி (RSS வாசகர்கள் மற்றும் பிற திரட்டிகள்)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "இந்தப் பக்கத்தை அதன் தாவலை மூட அனுமதிக்கவா?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "Allow WebRTC";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "படத்தை பதிவிறக்கும்போது பிழை ஏற்பட்டது %@";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "அங்கீகாரம் தேவை";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "வெளிப்புற LAN கோரிக்கைகளை தடு";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "தடுக்கப்பட்ட 3 வது கட்சி புரவலன்கள்";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "புத்தகக்குறிகள்";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "ரத்து";
+
+/* No comment provided by engineer. */
+"Close Tab" = "தாவலை மூடு";
+
+/* No comment provided by engineer. */
+"Confirm" = "உறுதிப்படுத்தவும்";
+
+/* No comment provided by engineer. */
+"Content policy" = "உள்ளடக்கக் கொள்கை";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "நினைவிகள் மற்றும் உள்ளூர் சேமிப்பு";
+
+/* No comment provided by engineer. */
+"Copy URL" = "URL ஐ நகலெடு";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "புதிய தாவலை உருவாக்கவும்";
+
+/* No comment provided by engineer. */
+"Custom settings" = "விருப்ப அமைப்புகள்";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "விருப்ப பயனர் முகவர் சரம், அல்லது முன்னிருப்பு பயன்படுத்த வெற்று";
+
+/* No comment provided by engineer. */
+"Default Settings" = "இயல்புநிலை அமைப்புகள்";
+
+/* No comment provided by engineer. */
+"Disable" = "முடக்கு";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "முடக்கப்பட்டுள்ளது: %@";
+
+/* No comment provided by engineer. */
+"Done" = "முடிந்தது";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "பாப்-அப் சாளரத்தை நிராகரிக்க இரண்டு முறை தட்டவும்.";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "புத்தகக்குறியை திருத்தவும்";
+
+/* No comment provided by engineer. */
+"Enable" = "இயக்கு";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "புத்தகக்குறிக்கான URL இன் விவரங்களை உள்ளிடவும்:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "புரவலன் சேர்க்கவும்/ செயற்களன் அமைப்புகளை வரையறுக்க";
+
+/* No comment provided by engineer. */
+"Error" = "பிழை";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "1 கடவுச்சொல்லுடன் நிரப்பவும்";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "URL களத்தை மையமாகக் கொள்ளவும்";
+
+/* No comment provided by engineer. */
+"Global Settings" = "உலகளாவிய அமைப்புகள்";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "பாலம் கட்டமைப்பு";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "தோர் இணைப்பு தோல்வி";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "ஆனியன் உலாவி தெரியாத வலைப்பின்னல் உடன் தோர் இணைப்பை இழந்தது, மீண்டும் இணைக்க முடியவில்லை. ஆனியன் உலாவி பின்னணிக்கு சென்றிருந்தாலோ அல்லது ஆனியன் உலாவி செயலில் இருக்கும்போது சாதனம் உறக்கநிலையில் இது ஏற்படலாம்.\n\nபயன்பாட்டை விட்டு வெளியேறவும் மீண்டும் முயற்சிக்கவும். தற்போதைய பக்கத்தை புத்தகக்குறியிட அல்லது தற்போதைய பக்கத்திலிருந்து தகவலைச் சேமிக்க வேண்டும் என்றால், நெட்வொர்க் திறமையின்றி பயன்பாட்டில் இருக்க 'சரி' என்பதை அழுத்தவும்.";
+
+/* No comment provided by engineer. */
+"Quit App" = "பயன்பாட்டை விட்டு வெளியேறவும்";
+
+/* No comment provided by engineer. */
+"Go Back" = "திரும்பிப் போ";
+
+/* No comment provided by engineer. */
+"Go Forward" = "முன்னோக்கி செல்";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications";
+
+/* No comment provided by engineer. */
+"Host Settings" = "புரவலன் அமைப்புகள்";
+
+/* No comment provided by engineer. */
+"Host/domain" = "புரவலன் / செயற்களம்";
+
+/* No comment provided by engineer. */
+"Hosts" = "புரவலன்கள்";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "எல்லா இடங்களிலும் HTTPS";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS எல்லா இடங்களிலும் ஆளுகிறது";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignore for this host";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "Ignore TLS errors";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "தவறான மின்னஞ்சல் முகவரி";
+
+/* No comment provided by engineer. */
+"Log In" = "உள் நுழை";
+
+/* InAppSettingsKit */
+"Mail not configured" = "அஞ்சல் கட்டமைக்கப்படவில்லை";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "புத்தகக்குறிகளை நிர்வகி";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "இல்லை";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "இல்லை XHR / WebSocket / காணொலி இணைப்புகள்";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "சரி";
+
+/* No comment provided by engineer. */
+"Open" = "திறந்த";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "திறந்த (சாதாரண உலாவல் பயன்முறை)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "புதிய தாவலில் திற";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Open in Background Tab";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Safari இல் திறக்கவும்";
+
+/* No comment provided by engineer. */
+"Other" = "மற்ற";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "பக்கம் புத்தகக்குறியிடப்பட்டது";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "பக்கத்தின் பெயர் (URL ஐப் பயன்படுத்த வெறுமையாக விடுங்கள்)";
+
+/* Password */
+"Password" = "கடவுச்சொல்";
+
+/* No comment provided by engineer. */
+"Privacy" = "தனியுரிமை";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "பக்கம் புதுப்பிக்க இழுக்கவும்";
+
+/* No comment provided by engineer. */
+"Refresh" = "புதுப்பிப்பு";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "வெளிப்புற புரவலன்களிலிருந்து ஏற்றப்பட்ட வளங்கள் பக்க உறுப்புகளை ஏற்றுவதிலிருந்து தடுக்கப்படும்அல்லது LAN ஹோஸ்ட்களுக்கான கோரிக்கைகளை தடுக்கப்படும் (192.168.0.0/16, 172.16.0.0/12, முதலியன)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "இந்த புரவலன்களிலிருந்து ஏற்றப்பட்ட ஆதாரங்கள், பக்க உறுப்புகளை ஏற்றுவதிலிருந்து அல்லது LAN புரவலன்களுக்கு கோரிக்கைகளைத் தடுக்கப்படும் (192.168.0.0/16, 172.16.0.0/12, முதலியன)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "இணையப் பக்கங்களில் இருந்து ஏற்றப்பட்ட வளங்களின் கட்டுப்பாடுகள்";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "இந்த புரவலனில் உள்ள வலைப்பக்கங்களிலிருந்து ஏற்றப்பட்ட வளங்களின் கட்டுப்பாடுகள்";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "நடப்புப் பக்கத்தில் பயன்படுத்துவதற்கான விதிமுறைகள்";
+
+/* No comment provided by engineer. */
+"Save Image" = "படத்தை சேமி";
+
+/* No comment provided by engineer. */
+"Security" = "பாதுகாப்பு";
+
+/* No comment provided by engineer. */
+"Settings" = "அமைப்புகள்";
+
+/* No comment provided by engineer. */
+"Share URL" = "URL ஐப் பகிர்";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "புத்தகக்குறிகளைக் காட்டு";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "கண்டிப்பு (ஜாவா சிறுநிரல், காணொலி, முதலியன இல்லை)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "தாவலுக்கு மாறவும் %d";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "இந்த அமைப்புகள் இந்த புரவலன்களுக்குப் பொருந்தும், அதனுடைய கீழ் உள்ள அனைத்து புரவலன்களுக்கும் (எ.கா., \"example.com\" example.com மற்றும் www.example.com க்குப் பொருந்தும்)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "இந்த அமைப்புகளை அனைத்து புரவலன்களிலும் இயல்புநிலைக்கு மீறியதாக பயன்படுத்தாது";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "மின்னஞ்சல் அனுப்புவதற்கு இந்த சாதனம் உள்ளமைக்கப்படவில்லை. அமைப்புகள் பயன்பாட்டில் அஞ்சல் அமைப்புகளை உள்ளமைக்கவும்.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "TLS 1.2 மட்டும்";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, அல்லது 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS certificate chain verification error (self-signed certificate?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS handshake failed";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protocol error";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS பதிப்பு";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Universal Link Protection";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "தெரியாத அமைப்பு";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL தடுப்பான்";
+
+/* No comment provided by engineer. */
+"User Agent" = "பயனர் முகவர்";
+
+/* No comment provided by engineer. */
+"User disabled" = "பயனர் முடக்கப்பட்டுள்ளது";
+
+/* No comment provided by engineer. */
+"Using defaults" = "இயல்புநிலைகளைப் பயன்படுத்துதல்";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "பிழை";
+
+/* No comment provided by engineer. */
+"Yes" = "ஆம்";
+

@@ -1,0 +1,329 @@
+﻿/* No comment provided by engineer. */
+"%@ (Disabled: %@)" = "%1$@ (Letiltva: %2$@)";
+
+/* No comment provided by engineer. */
+"%@ can't be empty" = "%@ nem lehet üres";
+
+/* No comment provided by engineer. */
+"(Tap to edit, hold to re-order)" = "(Érints a szerkesztéshez, tartsd nyomva az újrarendezéshez)";
+
+/* No comment provided by engineer. */
+"(Use Default)" = "(Alapértelmezett használata)";
+
+/* No comment provided by engineer. */
+"Add Bookmark" = "Könyvjelző hozzáadása";
+
+/* No comment provided by engineer. */
+"All rules" = "Összes szabály";
+
+/* No comment provided by engineer. */
+"Allow hosts to access WebRTC functions" = "Hostok számára a WebRTC funkciók engedélyezése";
+
+/* No comment provided by engineer. */
+"Allow hosts to permanently store cookies and local storage databases" = "A kiszolgáló számára a permanens cookie-k és a helyi adatbázis tárolás engedélyezése";
+
+/* No comment provided by engineer. */
+"Allow HTTPS hosts to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "A HTTPS kiszolgálók számára a nem-HTTPS oldalakról erőforrás betöltésének engedélyezése (hasznos az RSS olvasók és egyéb aggregátorok számára)";
+
+/* No comment provided by engineer. */
+"Allow mixed-mode resources" = "Kevert módú erőforrások engedélyezése";
+
+/* No comment provided by engineer. */
+"Allow persistent cookies" = "Állandó cookie-k engedélyezése";
+
+/* No comment provided by engineer. */
+"Allow this host to access WebRTC functions" = "Ennek a hostnak a számára a WebRTC funkciók engedélyezése";
+
+/* No comment provided by engineer. */
+"Allow this host to permanently store cookies and local storage databases" = "Ennek a kiszolgálónak a permanens cookie-k és a helyi adatbázis tárolás engedélyezése";
+
+/* No comment provided by engineer. */
+"Allow this HTTPS host to load page resources from non-HTTPS hosts (useful for RSS readers and other aggregators)" = "Ennek a HTTPS kiszolgálónak a nem-HTTPS oldalakról erőforrás betöltésének engedélyezése (hasznos az RSS olvasók és egyéb aggregátorok számára)";
+
+/* No comment provided by engineer. */
+"Allow this page to close its tab?" = "Engedélyezi az oldalnak a fül bezárását?";
+
+/* No comment provided by engineer. */
+"Allow WebRTC" = "WebRTC engedélyezése";
+
+/* No comment provided by engineer. */
+"An error occurred downloading image %@" = "Hiba történt az %@ kép letöltésekor";
+
+/* No comment provided by engineer. */
+"Authentication Required" = "Hitelesítés szükséges";
+
+/* No comment provided by engineer. */
+"Block external LAN requests" = "Külső LAN kérelmek blokkolása";
+
+/* No comment provided by engineer. */
+"Blocked 3rd-Party Hosts" = "Tiltott 3. fél kiszolgálók";
+
+/* No comment provided by engineer. */
+"Bookmarks" = "Könyvjelzők";
+
+/* Cancel
+   Cancel action */
+"Cancel" = "Mégse";
+
+/* No comment provided by engineer. */
+"Close Tab" = "Fül bezárása";
+
+/* No comment provided by engineer. */
+"Confirm" = "Megerősítés";
+
+/* No comment provided by engineer. */
+"Content policy" = "Tartalom szabályozás";
+
+/* No comment provided by engineer. */
+"Cookies and Local Storage" = "Cookie-k és helyi adattárolás";
+
+/* No comment provided by engineer. */
+"Copy URL" = "URL másolása";
+
+/* No comment provided by engineer. */
+"Create New Tab" = "Új fül létrehozása";
+
+/* No comment provided by engineer. */
+"Custom settings" = "Egyéni beállítások";
+
+/* No comment provided by engineer. */
+"Custom user-agent string, or blank to use the default" = "Egyedi user agent string, vagy üres az alapértelmezés használatához";
+
+/* No comment provided by engineer. */
+"Default Settings" = "Alapértelmezett beállítások";
+
+/* No comment provided by engineer. */
+"Disable" = "Letiltás";
+
+/* No comment provided by engineer. */
+"Disabled: %@" = "Letiltva: %@";
+
+/* No comment provided by engineer. */
+"Done" = "Kész";
+
+/* No comment provided by engineer. */
+"Double-tap to dismiss pop-up window." = "Dupla érintés az előugró ablak bezárásához";
+
+/* No comment provided by engineer. */
+"Edit Bookmark" = "Könyvjelző szerkesztése";
+
+/* No comment provided by engineer. */
+"Enable" = "Engedélyez";
+
+/* No comment provided by engineer. */
+"Enter the details of the URL to bookmark:" = "Adja meg a könyvjelzőzendő URL adatait:";
+
+/* No comment provided by engineer. */
+"Enter the host/domain to define settings for" = "Adja meg a kiszolgálót/domaint hogy beállíthassa";
+
+/* No comment provided by engineer. */
+"Error" = "Hiba";
+
+/* No comment provided by engineer. */
+"Fill with 1Password" = "Kitöltés 1Password-del";
+
+/* No comment provided by engineer. */
+"Focus URL Field" = "Fókusz az URL mezőre";
+
+/* No comment provided by engineer. */
+"Global Settings" = "Általános beállítások";
+
+/* No comment provided by engineer. */
+"Bridge Configuration" = "Híd konfiguráció";
+
+/* No comment provided by engineer. */
+"Tor connection failure" = "Tor csatlakozási hiba";
+
+/* No comment provided by engineer. */
+"__CONNECTION_FAILURE_DESCRIPTION__" = "Az Onion Böngésző elvesztette a kapcsolat a Tor anonim hálózathoz és nem tud újra csatlakozni. Ez akkor fordul elő, ha az Onion Böngésző a háttérbe lett küldve, agy az eszköz alvó állapotba került, miközben az Onion Böngésző aktív volt.\n\nKérjük csukja be az appot és próbálja újra. Ha szüksége van arra, hogy könyvjelzőzze az oldalt vagy lementsen információt az oldalról, nyomjon 'OK' gombot, hogy az appban maradjon hálózati kapcsolat nélkül.";
+
+/* No comment provided by engineer. */
+"Quit App" = "Kilépés az Appból";
+
+/* No comment provided by engineer. */
+"Go Back" = "Ugrás vissza";
+
+/* No comment provided by engineer. */
+"Go Forward" = "Ugrás előre";
+
+/* No comment provided by engineer. */
+"Handle tapping on links in a non-standard way to avoid possibly opening external applications" = "A linkek érintésének kezelése nem standard módon, hogy elkerülhető legyen a külső alkalmazás megnyitása";
+
+/* No comment provided by engineer. */
+"Handle tapping on links on pages from this host in a non-standard way to avoid possibly opening external applications" = "A linkek érintésének kezelése az erről a hostról származó oldalakon, nem standard módon, hogy elkerülhető legyen a külső alkalmazás megnyitása";
+
+/* No comment provided by engineer. */
+"Host Settings" = "Kiszolgáló beállítások";
+
+/* No comment provided by engineer. */
+"Host/domain" = "Kiszolgáló/domain";
+
+/* No comment provided by engineer. */
+"Hosts" = "Kiszolgálók";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere" = "HTTPS Everywhere";
+
+/* No comment provided by engineer. */
+"HTTPS Everywhere Rules" = "HTTPS Everywhere szabályok";
+
+/* No comment provided by engineer. */
+"Ignore for this host" = "Ignorálás ezen a hoston";
+
+/* No comment provided by engineer. */
+"Ignore TLS errors" = "TLS hibák ignorálása";
+
+/* No comment provided by engineer. */
+"Invalid email address" = "Érvénytelen email cím";
+
+/* No comment provided by engineer. */
+"Log In" = "Bejelentkezés";
+
+/* InAppSettingsKit */
+"Mail not configured" = "Levelezés nem konfigurált";
+
+/* No comment provided by engineer. */
+"Manage Bookmarks" = "Könyvjelzők kezelése";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for hosts to negotiate HTTPS connections" = "Minimum version of TLS required for hosts to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"Minimum version of TLS required for this host to negotiate HTTPS connections" = "Minimum version of TLS required for this host to negotiate HTTPS connections";
+
+/* No comment provided by engineer. */
+"No" = "Nem";
+
+/* No comment provided by engineer. */
+"No XHR/WebSocket/Video connections" = "Nincs XHR/WebSocket/Video kapcsolat";
+
+/* InAppSettingsKit
+   OK action */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Open" = "Megnyitás";
+
+/* No comment provided by engineer. */
+"Open (normal browsing mode)" = "Megnyitás (normál böngészési mód)";
+
+/* No comment provided by engineer. */
+"Open in a New Tab" = "Megnyitás új fülön";
+
+/* No comment provided by engineer. */
+"Open in Background Tab" = "Megnyitás a háttér fülön";
+
+/* No comment provided by engineer. */
+"Open in Safari" = "Megnyitás Safari-ban";
+
+/* No comment provided by engineer. */
+"Other" = "Egyéb";
+
+/* No comment provided by engineer. */
+"Page bookmarked" = "Oldal könyvjelzőzve";
+
+/* No comment provided by engineer. */
+"Page Name (leave blank to use URL)" = "Oldal neve (hagyd üresen az URL használatához)";
+
+/* Password */
+"Password" = "Jelszó";
+
+/* No comment provided by engineer. */
+"Privacy" = "Adatvédelem";
+
+/* No comment provided by engineer. */
+"Pull to Refresh Page" = "Húzzon az oldal frissítéséhez";
+
+/* No comment provided by engineer. */
+"Refresh" = "Frissítés";
+
+/* No comment provided by engineer. */
+"Resources loaded from external hosts will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "A külső kiszolgálókról betöltött erőforrások blokkolásra kerülnek a LAN hálózathoz hozzáférés vagy az oldal elemek betöltése szempontjából (192.168.0.0/16, 172.16.0.0/12, stb.)";
+
+/* No comment provided by engineer. */
+"Resources loaded from this host will be blocked from loading page elements or making requests to LAN hosts (192.168.0.0/16, 172.16.0.0/12, etc.)" = "Az erről a kiszolgálóról betöltött erőforrások blokkolásra kerülnek a LAN hálózathoz hozzáférés vagy az oldal elemek betöltése szempontjából (192.168.0.0/16, 172.16.0.0/12, stb.)";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages" = "A weboldalak erőforrás betöltésének korlátozásai";
+
+/* No comment provided by engineer. */
+"Restrictions on resources loaded from web pages at this host" = "A weboldalak erőforrás betöltésének korlátozásai ezen a kiszolgálón";
+
+/* No comment provided by engineer. */
+"Rules in use on current page" = "Szabályok az aktuális oldalon";
+
+/* No comment provided by engineer. */
+"Save Image" = "Kép mentése";
+
+/* No comment provided by engineer. */
+"Security" = "Biztonság";
+
+/* No comment provided by engineer. */
+"Settings" = "Beállítások";
+
+/* No comment provided by engineer. */
+"Share URL" = "URL megosztása";
+
+/* No comment provided by engineer. */
+"Show Bookmarks" = "Könyvjelzők megjelenítése";
+
+/* No comment provided by engineer. */
+"Strict (no JavaScript, video, etc.)" = "Kemény (nincs Javascript, video, stb.)";
+
+/* No comment provided by engineer. */
+"Switch to Tab %d" = "Váltás az %d fülre";
+
+/* No comment provided by engineer. */
+"These settings will apply to this host and all hosts under it (e.g., \"example.com\" will apply to example.com and www.example.com)" = "Ezek a beállítások erre a kiszolgálóra és minden alatta lévő host-ra (pl. \"example.com\" az vonatkozik az example.com-ra és a www.example.com-ra)";
+
+/* No comment provided by engineer. */
+"These settings will be used as defaults for all hosts unless overridden" = "Ezek a beállítások erre a kiszolgálóra alapértelmezettek, felülírásig";
+
+/* InAppSettingsKit */
+"This device is not configured for sending Email. Please configure the Mail settings in the Settings app." = "Az eszköz nincs konfigurálva email küldésére. Kérjük álítsa be a Levél beállításokat a Beállítások app-ban.";
+
+/* No comment provided by engineer. */
+"TLS 1.2 Only" = "Csak TLS 1.2";
+
+/* No comment provided by engineer. */
+"TLS 1.2, 1.1, or 1.0" = "TLS 1.2, 1.1, vagy 1.0";
+
+/* No comment provided by engineer. */
+"TLS certificate chain verification error (self-signed certificate?)" = "TLS tanúsítványlánc ellenőrzési hiba (önaláírt tanúsítvány?)";
+
+/* No comment provided by engineer. */
+"TLS handshake failed" = "TLS kézfogás sikertelen";
+
+/* No comment provided by engineer. */
+"TLS protocol error" = "TLS protokoll hiba";
+
+/* No comment provided by engineer. */
+"TLS version" = "TLS verzió";
+
+/* No comment provided by engineer. */
+"Universal Link Protection" = "Univerzális link védelem";
+
+/* No comment provided by engineer. */
+"Unknown Organization" = "Ismeretlen szervezet";
+
+/* No comment provided by engineer. */
+"URL" = "URL";
+
+/* No comment provided by engineer. */
+"URL Blocker" = "URL blokkoló";
+
+/* No comment provided by engineer. */
+"User Agent" = "Böngésző azonosítás";
+
+/* No comment provided by engineer. */
+"User disabled" = "Felhasználó letiltva";
+
+/* No comment provided by engineer. */
+"Using defaults" = "Alapértelmezések használata";
+
+/* No comment provided by engineer. */
+"XLFormViewController_ValidationErrorTitle" = "Hiba";
+
+/* No comment provided by engineer. */
+"Yes" = "Igen";
+
